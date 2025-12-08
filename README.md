@@ -81,6 +81,6 @@ Este projeto é de uso pessoal e educacional.
 
 ---
 
-**Desenvolvido por:** Engenheiro de Software  
+**Desenvolvido por:** [Marcos Aurélio Rocha da Silva](https://github.com/systemboys/ "Programador sênior") (Engenheiro de Software - bacharelado)
 **Última atualização:** 2024
 
