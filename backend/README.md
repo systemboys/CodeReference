@@ -4,7 +4,7 @@
 
 ---
 
-## Conteúdo {#conteúdo}
+## Conteúdo {#content}
 ## 🧠 1. **ORM Prisma**
    ### ⚙️ **Instalação e Configuração**
    - 🛠️ Configuração inicial do Prisma  
@@ -91,7 +91,7 @@ Esse comando cria automaticamente o cliente Prisma, facilitando o acesso aos mod
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## Comandos para Atualizar e Corrigir Dependências do Prisma
 
@@ -118,7 +118,7 @@ Essas anotações podem ser úteis para manter as dependências de seus projetos
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## Gerenciando Chaves Estrangeiras no Banco de Dados
 
@@ -228,7 +228,7 @@ ADD CONSTRAINT fk_novo_cliente_id FOREIGN KEY (cliente_id) REFERENCES clientes(i
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## 🗄️ Boas Práticas de Relacionamentos (Beekeeper Studio / MySQL)
 
@@ -300,7 +300,7 @@ A **SQL (Structured Query Language)** é uma linguagem padrão usada para gerenc
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## **1. DDL (Data Definition Language - Linguagem de Definição de Dados)**
 
@@ -315,7 +315,7 @@ Os comandos DDL são usados para definir e modificar a estrutura de um banco de 
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## **2. DML (Data Manipulation Language - Linguagem de Manipulação de Dados)**
 
@@ -330,7 +330,7 @@ Os comandos DML são usados para manipular os dados dentro das tabelas.
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## **3. DQL (Data Query Language - Linguagem de Consulta de Dados)**
 
@@ -345,7 +345,7 @@ DQL é responsável pelas consultas no banco de dados, ou seja, pela recuperaç�
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## **4. DCL (Data Control Language - Linguagem de Controle de Dados)**
 
@@ -358,7 +358,7 @@ Os comandos DCL controlam o acesso e as permissões dentro do banco de dados.
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## **5. DTL (Data Transaction Language - Linguagem de Transação de Dados)**
 
@@ -383,7 +383,7 @@ Os comandos DTL lidam com a gestão de transações no banco de dados, garantind
 ---
 
 Com essa organização, você pode consultar rapidamente os comandos SQL e entender em que contexto eles são usados no gerenciamento de bancos de dados.
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## Como Executar um CRUD no Insomnia
 
@@ -615,7 +615,7 @@ freeport 3333
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
 
 ## 📦 Diferença entre `package.json` e `package-lock.json`
 
@@ -691,4 +691,4 @@ Ele registra **as versões exatas** dos pacotes instalados, garantindo que o pro
 
 ---
 
-**📑 [Voltar ao Índice](#conteúdo)**
+**📑 [Voltar ao Índice](#content)**
