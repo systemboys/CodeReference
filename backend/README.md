@@ -1,13 +1,8 @@
-> ### QuickSnip
+# Backend com Prisma e Node.js {#topo}
 
-# Backend com Prisma e Node.js
+**Navegação:** [🏠 Início](../README.md) | [⬅️ Voltar](../README.md) | [⬆️ Topo](#topo)
 
 ---
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-<!-- /Botões de navegação -->
 
 ## Conteúdo
 ## 🧠 1. **ORM Prisma**
@@ -42,7 +37,6 @@
    - 📦 [Atualizar Dependências do Prisma](#1-atualizar-depend%C3%AAncias-do-prisma "Comandos para Atualizar e Corrigir Dependências do Prisma")  
    - 🛡️ [Corrigir Vulnerabilidades de Segurança](#2-corrigir-vulnerabilidades-com-npm-audit-fix "Comandos para Atualizar e Corrigir Dependências do Prisma")
 
-
 ## 🗄️ 2. **Gerenciamento de Banco de Dados**
    ### 🧩 **Estrutura de Tabelas**
    - ➕ [Adicionar Colunas em Tabelas Existentes](#adicionar-uma-nova-coluna-como-chave-estrangeira "Adicionar Colunas em Tabelas Existentes")  
@@ -61,12 +55,10 @@
    - 🔐 [DCL (Data Control Language)](#4-dcl-data-control-language---linguagem-de-controle-de-dados "DCL (Data Control Language)")  
    - 💾 [DTL (Data Transaction Language)](#5-dtl-data-transaction-language---linguagem-de-transa%C3%A7%C3%A3o-de-dados "DTL (Data Transaction Language)")
 
-
 ## 🔬 3. **Testes e Depuração de APIs**
    ### 🧪 **Testando Endpoints com Insomnia**
    - 🔁 [Executando um CRUD no Insomnia](#como-executar-um-crud-no-insomnia "Executando um CRUD no Insomnia")  
    - ⚙️ [Configuração de Variáveis de Ambiente no Insomnia](#configura%C3%A7%C3%A3o-de-ambiente-no-insomnia "Configuração de Variáveis de Ambiente no Insomnia")
-
 
 ## 🐞 4. **Resolução de Erros Comuns no Desenvolvimento**
    - 🚫 [Erro: EADDRINUSE - Porta já está em uso no Linux (Debian)](#erro-eaddrinuse---porta-j%C3%A1-est%C3%A1-em-uso-no-linux-debian "Erro: EADDRINUSE - Porta já está em uso no Linux (Debian)")
@@ -79,13 +71,6 @@
 ---
 
 Todos os tópicos relacionados a **Frontend** estão organizados dentro de **React.JS**, facilitando o acesso ao conteúdo específico de React.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -108,13 +93,6 @@ npx prisma generate
 ```
 
 Esse comando cria automaticamente o cliente Prisma, facilitando o acesso aos modelos e consultas ao banco de dados dentro do seu código JavaScript ou TypeScript.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -140,13 +118,6 @@ npm audit fix
 Sempre verifique o impacto de cada atualização no seu projeto, especialmente ao corrigir vulnerabilidades, pois algumas atualizações podem ser incompatíveis com versões específicas de bibliotecas que você utiliza.
 
 Essas anotações podem ser úteis para manter as dependências de seus projetos em dia e mais seguras.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -256,13 +227,6 @@ ADD CONSTRAINT fk_novo_cliente_id FOREIGN KEY (cliente_id) REFERENCES clientes(i
 2. Nomeie as FKs com prefixos descritivos, como `fk_<tabela_coluna>`, para facilitar a identificação no futuro.
 3. Mantenha backups regulares do banco de dados antes de executar comandos que alterem a estrutura.
 
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
-
 ---
 
 ## 🗄️ Boas Práticas de Relacionamentos (Beekeeper Studio / MySQL)
@@ -324,13 +288,6 @@ ADD CONSTRAINT fk_novo_cliente_id FOREIGN KEY (cliente_id) REFERENCES clientes(i
   * FK → `state_id`
   * PK → `id`
 * Prefira `utf8mb4_unicode_ci` para suportar caracteres acentuados.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -415,13 +372,6 @@ Os comandos DTL lidam com a gestão de transações no banco de dados, garantind
 ---
 
 Com essa organização, você pode consultar rapidamente os comandos SQL e entender em que contexto eles são usados no gerenciamento de bancos de dados.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -528,13 +478,6 @@ Clique em **Send** para excluir o item.
 ### Dica Extra
 - Utilize as abas **History** e **Collections** no Insomnia para organizar os testes.
 - Documente os endpoints com descrições detalhadas para facilitar futuros testes.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -660,13 +603,6 @@ Depois, basta executar:
 freeport 3333
 ```
 
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
-
 ---
 
 ## 📦 Diferença entre `package.json` e `package-lock.json`
@@ -740,12 +676,5 @@ Ele registra **as versões exatas** dos pacotes instalados, garantindo que o pro
 | ------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
 | `npm install` | Desenvolvimento   | Pode atualizar versões conforme o `package.json`.                                                                 |
 | `npm ci`      | Produção ou CI/CD | Remove `node_modules/` e instala **exatamente** o que está no `package-lock.json`, garantindo consistência total. |
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#-4-resolu%C3%A7%C3%A3o-de-erros-comuns-no-desenvolvimento "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---

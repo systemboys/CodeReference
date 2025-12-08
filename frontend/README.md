@@ -1,13 +1,8 @@
-> ### QuickSnip
+# Frontend com React.JS {#topo}
 
-# Frontend com React.JS
+**Navegação:** [🏠 Início](../README.md) | [⬅️ Voltar](../README.md) | [⬆️ Topo](#topo)
 
 ---
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-<!-- /Botões de navegação -->
 
 ## Conteúdo
 1. **⚛️ React.JS**
@@ -56,17 +51,9 @@
      - ♿ Acessibilidade em componentes React
      - [📦 Verificando a versão do React e React-DOM com npm list](#-verificando-a-vers%C3%A3o-do-react-e-react-dom-em-projetos-com-frontend-isolado "Verificando a versão do React e React-DOM com npm list")
 
-
 ---
 
 Nesta sessão há varios itens de conteúdos referentes à React.JS.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -244,13 +231,6 @@ Isso é especialmente útil em casos onde o estado pode mudar rapidamente, como 
 
 O `useState` é a base para gerenciar estados em componentes funcionais e permite que seus componentes sejam interativos e dinâmicos. Junto com outros hooks como `useEffect`, ele forma a base de desenvolvimento de componentes React modernos.
 
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
-
 ---
 
 ## Explicação detalhada sobre `useEffect` com exemplos práticos
@@ -395,13 +375,6 @@ Esse uso é raro e geralmente não é recomendado.
 ### Conclusão
 
 O `useEffect` é um hook poderoso que permite realizar efeitos colaterais em componentes funcionais de maneira controlada e previsível. Dominar seu uso e entender a mecânica das dependências ajudará a construir componentes mais eficientes e sem bugs.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -595,13 +568,6 @@ export default AppContent;
 - **Evitar Prop Drilling**: Simplifica o código evitando a passagem de props por vários níveis de componentes intermediários.
 
 O `useContext` é uma ferramenta poderosa para gerenciamento de dados globais em uma aplicação React e, quando combinado com o `useState` ou `useReducer` no `Provider`, permite gerenciar estados complexos de forma eficiente.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
 
@@ -895,13 +861,6 @@ Por favor veja a explicação da propriedade `align-items` para entender quais s
 | ------------------------------------------------------- | :----------------------------------------------------------- |
 | ![Juliana Amoasei](./images/css_flex_box/32266030.jpeg) | ***Juliana Amoasei***<br />Desenvolvedora JavaScript com background multidisciplinar, sempre aprendendo para ensinar e vice-versa. Acredito no potencial do conhecimento como agente de mudança pessoal e social. Atuo como instrutora na Escola de Programação da Alura e, fora da tela preta, me dedico ao Kung Fu e a nerdices em geral. |
 
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
-
 ---
 
 ## Modelo de CSS Responsivo com Media Queries
@@ -971,13 +930,6 @@ body {
 
 Agora você pode usar este modelo para tornar suas aplicações responsivas de forma eficiente!
 
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
-
 ---
 
 ## 🔍 Verificando a versão do React e React-DOM em projetos com frontend isolado
@@ -1026,12 +978,5 @@ Em projetos estruturados com um diretório separado para o frontend (como `/fron
    ```
 
 > 💡 Dica: Se o comando retornar `(empty)` ou erro de dependência, certifique-se de estar na pasta correta onde o `package.json` do frontend está localizado.
-
-<!-- Botões de navegação -->
-[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
-[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
-[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
-[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
-<!-- /Botões de navegação -->
 
 ---
