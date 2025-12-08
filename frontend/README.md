@@ -1,6 +1,13 @@
-# Frontend com React.js
+> ### QuickSnip
+
+# Frontend com React.JS
 
 ---
+
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+<!-- /Botões de navegação -->
 
 ## Conteúdo
 1. **⚛️ React.JS**
@@ -49,7 +56,17 @@
      - ♿ Acessibilidade em componentes React
      - [📦 Verificando a versão do React e React-DOM com npm list](#-verificando-a-vers%C3%A3o-do-react-e-react-dom-em-projetos-com-frontend-isolado "Verificando a versão do React e React-DOM com npm list")
 
+
 ---
+
+Nesta sessão há varios itens de conteúdos referentes à React.JS.
+
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -227,6 +244,13 @@ Isso é especialmente útil em casos onde o estado pode mudar rapidamente, como 
 
 O `useState` é a base para gerenciar estados em componentes funcionais e permite que seus componentes sejam interativos e dinâmicos. Junto com outros hooks como `useEffect`, ele forma a base de desenvolvimento de componentes React modernos.
 
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
+
 ---
 
 ## Explicação detalhada sobre `useEffect` com exemplos práticos
@@ -371,6 +395,13 @@ Esse uso é raro e geralmente não é recomendado.
 ### Conclusão
 
 O `useEffect` é um hook poderoso que permite realizar efeitos colaterais em componentes funcionais de maneira controlada e previsível. Dominar seu uso e entender a mecânica das dependências ajudará a construir componentes mais eficientes e sem bugs.
+
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -565,9 +596,18 @@ export default AppContent;
 
 O `useContext` é uma ferramenta poderosa para gerenciamento de dados globais em uma aplicação React e, quando combinado com o `useState` ou `useReducer` no `Provider`, permite gerenciar estados complexos de forma eficiente.
 
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
+
 ---
 
 ## Flexbox CSS: Guia Completo, Elementos e Exemplos
+
+![Felxbox CSS](./images/css_flex_box/css-guia-do-flexbox.1731866670.png)
 
 O Flexbox tem como meta ser um modo mais eficiente para criar leiautes, alinhar e distribuir espaços entre itens em um container, mesmo quando as dimensões destes itens são desconhecidas e/ou dinâmicas (daí o termo "flex").
 
@@ -584,6 +624,8 @@ A ferramenta Flexbox (de Flexible Box) foi criada para tornar essas tarefas mais
 O Flexbox é um módulo completo e não uma única propriedade; algumas delas devem ser declaradas no container (o elemento-pai, que chamamos de flex container), enquanto outras devem ser declaradas nos elementos-filhos (os flex itens).
 
 Se o leiaute "padrão" é baseado nas direções block e inline, o leiaute Flex é baseado em direções "flex flow". Veja abaixo um diagrama da especificação, explicando a ideia central por trás do leiaute Flex.
+
+![Elementos](./images/css_flex_box/00-basic-terminology.png)
 
 Os ítens serão dispostos no leiaute seguindo ou o eixo principal ou o transversal.
 
@@ -616,6 +658,8 @@ Os ítens serão dispostos no leiaute seguindo ou o eixo principal ou o transver
 
 ### Propriedades para o elemento-pai
 
+![Container](./images/css_flex_box/01-container.png)
+
 Quando utilizamos o *Flexbox*, é muito importante saber quais propriedades são declaradas no elemento-pai (por exemplo, uma `div` que irá conter os elementos a serem alinhados) e quais serão declaradas nos elementos-filhos. Abaixo, seguem propriedades que devem ser declaradas utilizando o elemento-pai como seletor (para alinhar elementos-filhos):
 
 **display**
@@ -632,6 +676,8 @@ Note que a propriedade de CSS `columns` não tem efeito em um *flex container*.
 
 ### **flex-direction**
 
+![Flex-Direction](./images/css_flex_box/flex-direction.png)
+
 Estabelece o eixo principal, definindo assim a direção em que os *flex items* são alinhados no *flex container*. O Flexbox é (com exceção de um wrapping opcional) um conceito de leiaute de uma só direção. Pense nos *flex items* inicialmente posicionais ou em linhas horizontais ou em colunas verticais.
 
 ```css
@@ -646,6 +692,8 @@ Estabelece o eixo principal, definindo assim a direção em que os *flex items* 
 - `column-reverse`: mesmo que `row-reverse` mas de baixo para cima
 
 ### **flex-wrap**
+
+![flex-wrap](./images/css_flex_box/flex-wrap.png)
 
 Por padrão, os *flex items* vão todos tentar se encaixar em  uma só linha. Com esta propriedade você pode modificar esse  comportamento e permitir que os ítens quebrem para uma linha seguinte  conforme for necessário.
 
@@ -670,6 +718,8 @@ A propriedade **flex-flow** é uma propriedade *shorthand* (uma mesma declaraç�
 ```
 
 ### **justify-content**
+
+![justify-content](./images/css_flex_box/justify-content.png)
 
 Esta propriedade define o alinhamento dos ítens ao longo do eixo principal.  Ajuda a distribuir o espaço livre que sobrar no container tanto se todos os flex items em uma linha são inflexíveis, ou são flexíveis mas já  atingiram seu tamanho máximo. Também exerce algum controle sobre o  alinhamento de ítens quando eles ultrapassam o limite da linha.
 
@@ -696,6 +746,8 @@ Também existem duas palavras-chave adicionais que você pode usar em conjunto c
 
 ### **align-items**
 
+![align-items](./images/css_flex_box/align-items.png)
+
 define o comportamento padrão de como *flex items* são alinhados de acordo com o eixo transversal (*cross axis*). De certa forma, funciona de forma similar ao `justify-content`, porém no eixo transversal (perpendicular ao eixo principal).
 
 ```css
@@ -712,6 +764,8 @@ define o comportamento padrão de como *flex items* são alinhados de acordo com
 Os modificadores `safe` e `unsafe` pode ser usados em conjunto com todas essas palavras-chave (favor  conferir o suporte de cada navegador) e servem para prevenir qualquer  alinhamento de elementos que faça com que o conteúdo fique inacessível  (por exemplo, para fora da tela).
 
 ### **align-content**
+
+![align-content](./images/css_flex_box/align-content.png)
 
 Organiza as linhas dentro de um flex container quando há espaço extra no eixo transversal, similar ao modo como `justify-content` alinha ítens individuais dentro do eixo principal.
 
@@ -753,6 +807,8 @@ Você pode definir as propriedades abaixo para apenas um dos elementos-filhos at
 
 Determina a ordem em que os elementos aparecerão.
 
+![order](./images/css_flex_box/order.png)
+
 Por padrão os flex items são dispostos na tela na ordem do código. Mas a propriedade `order` controla a ordem em que aparecerão no container.
 
 ```css
@@ -762,6 +818,8 @@ Por padrão os flex items são dispostos na tela na ordem do código. Mas a prop
 ```
 
 ### **flex-grow**
+
+![grow](./images/css_flex_box/flex-grow.png)
 
 Define a habilidade de um flex item de crescer, caso necessário. O valor dessa propriedade é um valor numérico sem indicação de unidade, que serve  para cálculo de proporção. Este valor dita a quantidade de espaço  disponível no container que será ocupado pelo item.
 
@@ -813,6 +871,8 @@ Esta é a propriedade *shorthand* para `flex-grow`, `flex-shrink` e `flex-basis`
 
 ### **align-self**
 
+![align-self](./images/css_flex_box/align-self.png)
+
 Permite que o alinhamento padrão (ou o que estiver definido por `align-items`) seja sobrescrito para ítens individuais.
 
 Por favor veja a explicação da propriedade `align-items` para entender quais são os possíveis valores.
@@ -833,7 +893,14 @@ Por favor veja a explicação da propriedade `align-items` para entender quais s
 
 | Perfil | Especialização |
 | ------------------------------------------------------- | :----------------------------------------------------------- |
-|  | ***Juliana Amoasei***<br />Desenvolvedora JavaScript com background multidisciplinar, sempre aprendendo para ensinar e vice-versa. Acredito no potencial do conhecimento como agente de mudança pessoal e social. Atuo como instrutora na Escola de Programação da Alura e, fora da tela preta, me dedico ao Kung Fu e a nerdices em geral. |
+| ![Juliana Amoasei](./images/css_flex_box/32266030.jpeg) | ***Juliana Amoasei***<br />Desenvolvedora JavaScript com background multidisciplinar, sempre aprendendo para ensinar e vice-versa. Acredito no potencial do conhecimento como agente de mudança pessoal e social. Atuo como instrutora na Escola de Programação da Alura e, fora da tela preta, me dedico ao Kung Fu e a nerdices em geral. |
+
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -904,6 +971,13 @@ body {
 
 Agora você pode usar este modelo para tornar suas aplicações responsivas de forma eficiente!
 
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
+
 ---
 
 ## 🔍 Verificando a versão do React e React-DOM em projetos com frontend isolado
@@ -952,5 +1026,12 @@ Em projetos estruturados com um diretório separado para o frontend (como `/fron
    ```
 
 > 💡 Dica: Se o comando retornar `(empty)` ou erro de dependência, certifique-se de estar na pasta correta onde o `package.json` do frontend está localizado.
+
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---

@@ -1,10 +1,13 @@
-#
+> ### QuickSnip
 
 # Scripts Prontos: Backend e Frontend
 
 ---
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+<!-- /Botões de navegação -->
 
 Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e backend, utilizando React.JS no frontend e Prisma no backend.
 
@@ -274,7 +277,12 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
 
 Este item "Scripts Prontos: Backend e Frontend" contém scripts prontos para diversos cenários, como formulários com integração completa entre frontend e backend, listagem de itens, edição, e exclusão com DataTables e outras funcionalidades. A ideia é que essa seção funcione como um guia rápido para montar um CRUD completo ou mesmo pacotes prontos que você pode adaptar e reutilizar facilmente.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ## 🚀 Guia de Inicialização de Backend Node.js com TypeScript e Prisma
 
@@ -437,7 +445,9 @@ app.get('/lotes', async (req, res) => {
 });
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#-1-iniciando-projetos "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -471,7 +481,9 @@ npm run dev
 
 Acesse `http://localhost:5173` para ver a aplicação rodando.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#-1-iniciando-projetos "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -511,7 +523,9 @@ export const api = axios.create({
 });
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#-1-iniciando-projetos "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -626,7 +640,12 @@ app.listen(PORT, () => {
 
 Pronto! Agora você tem o backend modularizado e o frontend inicializado com Vite + React + TypeScript, prontos para evoluir com sua aplicação LotManager.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-1-iniciando-projetos "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -857,7 +876,12 @@ export default App;
 🔧 Projeto Fullstack – Node.js + Express + Prisma + React.js (Conexão MySQL HostGator)
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-1-iniciando-projetos "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -937,7 +961,12 @@ npm run dev
 * Esse setup é indicado para projetos onde não se deseja usar TypeScript inicialmente.
 * Pode-se futuramente migrar para TypeScript com `npm install --save-dev typescript @types/react @types/react-dom`.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-1-iniciando-projetos "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -995,7 +1024,12 @@ export default App;
 * O Vite lida com os módulos e CSS do Bootstrap automaticamente.
 * O React-Bootstrap cuida da lógica e estilos dos componentes para você.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-1-iniciando-projetos "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1103,7 +1137,12 @@ Depois de adicionar o administrador com sucesso ou se houver algum erro, você p
 
 Agora, o seu formulário enviará corretamente as informações para a rota `/addAdmins`, e a rota salvará os dados no banco de dados.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-formul%C3%A1rio-de-cadastro-create "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1244,7 +1283,12 @@ Campo1 é obrigatório.
 
 Um formulário funcional e validado, que impede o envio de campos vazios e exibe mensagens claras de erro para o usuário.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-valida%C3%A7%C3%A3o-de-formul%C3%A1rios "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1315,7 +1359,12 @@ Passos com as modificações necessárias, para inplementação de indicador de 
 
 Essas são as únicas modificações necessárias!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-listagem-de-itens-com-datatable-read "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1422,7 +1471,12 @@ Os dados abaixo, são expostos no formato `json`:
 
 Você pode adaptar essa estrutura para qualquer componente que precise buscar, formatar e exibir dados!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-listagem-de-itens-com-datatable-read "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1538,7 +1592,12 @@ export default SingleEntityComponent;
 
 Essa abordagem permite que você reutilize essa estrutura genérica para buscar e exibir detalhes de qualquer registro específico em uma "página single" em React, apenas substituindo o nome da rota e os campos conforme necessário.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-consulta-de-registro-%C3%BAnico-single "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1620,7 +1679,12 @@ fetchLastEntityId();
 
 Adapte o código de acordo com seu ambiente (ex.: inclusão de headers, autenticação, etc.).
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-consulta-de-registro-%C3%BAnico-single "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1837,7 +1901,12 @@ async function handleSubmitForm(e) {
 
 Com essa alteração, o valor do campo será sempre refletido corretamente no estado do componente, permitindo que a validação funcione conforme esperado, tanto para registro quanto para edição.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-edi%C3%A7%C3%A3o-de-registro-update "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -1975,7 +2044,12 @@ export function GenericFormExample() {
 
 Exemplo referência para lidar com formulários dinâmicos em React!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-edi%C3%A7%C3%A3o-de-registro-update "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2034,7 +2108,12 @@ E no JSX dos campos:
 />
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-edi%C3%A7%C3%A3o-de-registro-update "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2155,7 +2234,12 @@ export function GenericForm({ id, apiUrl }) {
 }
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-edi%C3%A7%C3%A3o-de-registro-update "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2239,7 +2323,12 @@ serve para **incluir condicionalmente** a propriedade `password` no objeto `data
 
 Ou seja, você só adiciona a propriedade `password` ao objeto final se de fato houver uma nova senha definida. Se não houver, a propriedade simplesmente não é incluída.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-edi%C3%A7%C3%A3o-de-registro-update "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2378,7 +2467,12 @@ Para passar o `item.id` para o componente `DeleteUser`, você precisa modificar 
 
 Dessa forma, o `id` será passado corretamente para o componente `DeleteUser` e você poderá utilizá-lo para qualquer operação, como enviar no corpo da requisição ou exibir na mensagem de confirmação.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-exclus%C3%A3o-de-registro-delete "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2482,7 +2576,12 @@ const handleDelete = async (parentId, childId) => {
 
 Essa estrutura pode ser reutilizada e adaptada facilmente para outras operações de exclusão em sistemas com relações de chave estrangeira.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-exclus%C3%A3o-de-registro-delete "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2607,7 +2706,12 @@ export default DeleteButton;
 
 Esse guia genérico permite que você configure e reutilize a lógica de exclusão de registros com facilidade em diversos componentes e tabelas do seu sistema.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-exclus%C3%A3o-de-registro-delete "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2739,7 +2843,12 @@ export default CreateEntityForm;
 2. **Frontend**: Defina o formulário em React para capturar os dados e enviar para a rota.
 3. **Requisição**: Faça a requisição `POST`, trate a resposta e exiba uma mensagem de sucesso ou erro para o usuário.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -2879,7 +2988,12 @@ Neste exemplo:
 
 Essa abordagem permite que a rota seja dinâmica e atenda a diferentes IDs fornecidos, tornando-a mais versátil e útil em cenários de consultas específicas!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3036,7 +3150,12 @@ export default UpdateEntityForm;
 2. **Frontend**: Use um formulário em React com os valores iniciais preenchidos. Submeta os dados atualizados para a rota `PUT`.
 3. **Requisição e Feedback**: Trate a resposta da requisição e exiba uma mensagem de sucesso ou erro.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3142,7 +3261,12 @@ export default DeleteEntityButton;
 2. **Frontend**: Use um botão em React que chama a função `handleDelete` para realizar a exclusão.
 3. **Callback para Atualização**: Opcionalmente, use `onDelete` para atualizar a lista de registros no frontend após a exclusão.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3245,7 +3369,12 @@ routes.get("/singleUser/:companyId/:id", singleUser); // Rota para buscar detalh
 ### Conclusão
 Você pode começar com rotas simples e mover a lógica para controllers quando o projeto crescer ou quando sentir que é necessário. Isso não vai causar nenhum problema para o seu projeto e, na verdade, vai melhorar a organização do código a longo prazo.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3362,7 +3491,12 @@ routes.use(authMiddleware);
 
 Este modelo genérico pode ser adaptado para qualquer aplicação com **Node.js**, **Express** e **Prisma**, garantindo boa **organização** de código e **manutenção** mais simples ao longo do tempo.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3569,7 +3703,12 @@ module.exports = app;
 
 Esse modelo genérico ajuda a manter a organização do backend e facilita a reutilização de código para diferentes entidades!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3618,7 +3757,12 @@ A modularização e a manutenibilidade são princípios essenciais para manter u
 
 Essas vantagens tornam a modularização uma prática essencial para qualquer projeto de desenvolvimento de software, especialmente à medida que o projeto cresce em complexidade e equipe.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3726,7 +3870,12 @@ Aqui está um exemplo genérico, com instruções detalhadas para adicionar uma 
 
 Esse padrão ajuda a estruturar rotas e componentes de forma a serem reutilizáveis e adaptáveis para diferentes entidades e relações no seu sistema.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -3964,7 +4113,12 @@ fetch(`http://localhost:3333/exemplo/${id}`, {
 }).then(() => console.log('Deletado'));
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4090,7 +4244,12 @@ Caso você queira incluir outros tipos de comportamento, como passar o tipo de r
 
 Essa estrutura dá flexibilidade para um CRUD genérico usando Prisma e TypeScript, além de ser escalável e fácil de adaptar.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-integra%C3%A7%C3%A3o-completa-de-frontend-e-backend "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4218,7 +4377,7 @@ Esse modelo pode ser usado para qualquer lista, bastando modificar o layout dos 
 
 ***A exemplo de teste, crie uma tabela com o nome `test_table` e execute os INSERTs abaixo***
 
-
+![Tabela para testes](./images/Table_for_tests.png "Crie a tabela e faça testes!")
 
 Aqui está o código SQL para criar a tabela conforme a estrutura mostrada na imagem:
 
@@ -4258,7 +4417,12 @@ INSERT INTO test_table (item_description, registration_date, registration_time, 
                        ('Item Demo',      '2024-12-30',      '21:49:38',        1);
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-3-pagina%C3%A7%C3%A3o-de-listas-com-react-e-prisma "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4271,7 +4435,7 @@ Para implementar uma paginação customizada no estilo da imagem, podemos criar 
 
 > Exemplo com Bootstrap
 
-[](# "Exemplo de paginação com o Bootstrap")
+[![Início](./images/Pagination_Example.png)](# "Exemplo de paginação com o Bootstrap")
 
 Abaixo está uma modificação no código de paginação, que adiciona essa lógica e gera os botões conforme o layout solicitado.
 
@@ -4450,7 +4614,12 @@ A exibição dos botões de paginação deve ficar parecida com o modelo solicit
 
 Esse layout otimiza a navegação para listas extensas, mantendo a interface simples e acessível.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-3-pagina%C3%A7%C3%A3o-de-listas-com-react-e-prisma "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4639,7 +4808,12 @@ Se necessário, um servidor de backend pode ser configurado para responder a ess
 ### Como usar:
 Substitua o código antigo pelo novo componente e mantenha o mesmo fluxo de integração no projeto (`<ConnectionNotification />`).
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4712,7 +4886,12 @@ Adicione o seguinte CSS para estilizar a mensagem. Você pode colocar isso no ar
 ### Resultado
 Este método é mais amigável do que o `alert` padrão e oferece uma experiência visual melhor para o usuário.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4831,7 +5010,12 @@ Crie um arquivo `Notification.css` ou adicione ao seu arquivo de estilo global:
 ### Reutilização
 Este exemplo genérico pode ser facilmente reutilizado em qualquer projeto. Você pode passar mensagens personalizadas e o tipo de notificação desejado (`success`, `warning`, ou `error`) para criar uma experiência de notificação rica e dinâmica.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4929,7 +5113,12 @@ O JSX atualizado ficará assim:
 
 Com isso, o "CSS Module" será aplicado corretamente para cada tipo de notificação (sucesso, alerta ou erro).
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -4993,7 +5182,12 @@ function handleButtonNo() {
 
 Esses passos garantem uma manipulação de classe consistente em modais ou janelas personalizadas, como no caso do uso com a biblioteca "fenestra".
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5050,7 +5244,12 @@ export default ResponsiveDiv;
 
 Esse componente é funcional e reutilizável. É só importar e usar no seu projeto React. 😊
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5130,7 +5329,12 @@ Agora, ao clicar no link "Inscrever-se", o usuário será redirecionado para o c
 
 Essa abordagem também mantém a navegação gerenciada pelo React Router, sem recarregar a página.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5296,7 +5500,12 @@ import configIcon from '/path/to/config-icon.png';
 
 Com isso, você pode organizar melhor seus assets e garantir que o caminho da imagem seja resolvido corretamente pelo bundler.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5363,7 +5572,12 @@ const ExternalIcon = ({ src, alt, size = 48 }) => (
 
 Com essa abordagem, você pode reutilizar o componente `ExternalIcon` para carregar imagens externas em qualquer lugar do seu projeto.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5450,7 +5664,12 @@ Você pode simplesmente copiar e colar esse código no console do navegador enqu
 
 Caso tenha mais campos ou queira ajustes, é só me avisar!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5531,7 +5750,12 @@ Este procedimento orienta como configurar um domínio comprado (ex.: Registro.BR
 - O modo **Flexible** não criptografa tráfego entre Cloudflare e servidor; use **Full (Strict)** em produção com certificado válido instalado no backend.
 - Para máxima segurança, configure **Let’s Encrypt** ou **Cloudflare Origin Certificate** em seu servidor e altere o modo SSL na Cloudflare posteriormente.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5570,7 +5794,12 @@ Garante que qualquer solicitação feita com `http://` seja automaticamente redi
 ✅ **Resultado esperado**
 - Qualquer acesso via `http://suaaplicacao.com.br` ou subdomínios como `http://sfb.suaaplicacao.com.br` será imediatamente redirecionado para `https://...` garantindo maior segurança, confiabilidade e confiança visual (cadeado seguro) aos usuários.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5589,7 +5818,7 @@ REACT_APP_API_URL=https://minha-api.com
 REACT_APP_GOOGLE_API_KEY=chave-do-google
 ```
 
-[](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
+[![Início](../../images/control/11280_control_up_icon.png)](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
 
 ### 2. Utilização no Código
 Após definir as variáveis no `.env`, você pode acessá-las no código usando `process.env.NOME_DA_VARIAVEL`.
@@ -5602,7 +5831,7 @@ console.log("URL da API:", apiUrl);
 
 Isso tornará a variável `REACT_APP_API_URL` acessível no código React, e o valor será substituído no processo de build.
 
-[](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
+[![Início](../../images/control/11280_control_up_icon.png)](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
 
 ### 3. Adicionando o Arquivo ao `.gitignore`
 O arquivo `.env` normalmente contém informações sensíveis e específicas do ambiente (como chaves e segredos). É uma boa prática adicioná-lo ao `.gitignore` para que ele não seja enviado ao repositório:
@@ -5611,7 +5840,7 @@ O arquivo `.env` normalmente contém informações sensíveis e específicas do 
 .env
 ```
 
-[](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
+[![Início](../../images/control/11280_control_up_icon.png)](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
 
 ### 4. Variáveis Diferentes para Ambientes Diferentes
 Para facilitar a configuração de ambientes, você pode criar arquivos `.env` específicos para cada ambiente:
@@ -5621,7 +5850,7 @@ Para facilitar a configuração de ambientes, você pode criar arquivos `.env` e
 
 O Create React App carrega automaticamente as variáveis do arquivo correspondente ao ambiente atual (`NODE_ENV`).
 
-[](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
+[![Início](../../images/control/11280_control_up_icon.png)](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
 
 ### 5. Limitações e Avisos
 - **Somente em Build Time:** As variáveis são embutidas no bundle do React durante o build, ou seja, você não pode modificá-las em tempo de execução.
@@ -5659,7 +5888,7 @@ export default App;
 
 Assim, você consegue gerenciar as variáveis de forma prática e segura no React!
 
-[](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
+[![Início](../../images/control/11280_control_up_icon.png)](#uso-de-vari%C3%A1veis-de-ambiente-com-arquivo-env-no-react "Conteúdo")
 
 ### Gerenciamento de URLs de API por Ambiente com Variáveis de Ambiente no React
 
@@ -5779,7 +6008,12 @@ E no código, você acessaria como `import.meta.env.VITE_API_URL`.
 
 Essas dicas devem resolver problemas.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5790,7 +6024,7 @@ Guia com instruções claras sobre como acessar dados do `localStorage` (como o 
 #### Objetivo
 Carregar dados específicos armazenados no `localStorage`, como o `companyId` do usuário, e utilizá-los em chamadas de API dentro de componentes React.
 
-
+![LocalStorage](./images/localStorage_1.png)
 
 #### Passo a Passo
 
@@ -5866,7 +6100,12 @@ export function MeuComponente() {
 
 Seguindo essas instruções, você conseguirá acessar dados do `localStorage` e usá-los em requisições API em diferentes componentes de forma rápida e eficaz!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5921,7 +6160,12 @@ return (
 );
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5948,7 +6192,12 @@ function MeuComponente() {
 
 Nesse exemplo, criamos um array `dataTableRecords` com três objetos que representam as opções do select. Em seguida, utilizamos o método `map()` para criar um array de elementos `<option>` com base nos objetos do array `dataTableRecords`. Cada elemento `<option>` tem o atributo value com o valor do objeto e o texto da opção com o atributo label. Note que é importante incluir a propriedade `key` em cada elemento gerado pelo `map()` para ajudar o React a identificar qual item deve ser atualizado em caso de mudanças na lista. Por fim, o array de elementos `<option>` é renderizado dentro do elemento `<select>`.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5974,7 +6223,12 @@ function MeuComponente() {
 }
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -5994,7 +6248,12 @@ console.log(array.filter(Number.isInteger));
 
 > Entre todos os itens dentro do array, será filtrado apenas os números deixando de fora do novo array as strings.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6012,7 +6271,12 @@ console.log(array2.filter((number) => number % 2 !== 0));
 
 > O método `filter` retornou um novo array com os elementos que passaram no teste implantados na função fornecida.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6030,7 +6294,12 @@ ages.findIndex((n) => n > 30)
 
 > Analisando que no array, o 18 está na posição "0" e o 68 na "6", o `findIndex()` está obtendo o primeiro da lista que é maior que 30, no caso é o valor que está na posição 2 que é o "32". Obs.: O 68 também é maior que 30, mas não é o primeiro no caso.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6080,7 +6349,12 @@ console.log(duplicados); // Retornando [2, 4, 6, 8, 10].
 
 > Os valores do primeiro array foram transformados e seu resultado foi para um novo array criado pelo map(). Então, o callback que é passado para o map() recebe cada item e retorna o valor que você quer no array final.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ## Array filter()
 
@@ -6139,7 +6413,12 @@ const alimentos = produtos
 
 > Isso é interessante, você pode combinar uma função com a outra e cada uma faz uma coisa específica. Os métodos podem ser colocados um abaixo do outro.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ## Array Reduce
 
@@ -6181,7 +6460,12 @@ console.log(total); // Retornando "39.2".
 
 > Sempre a cada rodada que acontece do reduce, o valor que você está retornando vai se tornar o próximo acumulado e ele pega o próximo do array.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6228,7 +6512,12 @@ export default ExampleComponent;
 
 Você pode substituir o número `4` pela quantidade desejada e alterar o conteúdo interno do `.map()` conforme o componente que estiver utilizando (`<Card />`, `<Col />`, `<ListItem />`, etc).
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ## Reinstalar Dependências para Resolver Problemas de Configuração ou Conflitos de CORS
 
@@ -6263,7 +6552,12 @@ Quando o problema persiste e nenhuma das soluções comuns resolve, uma última 
 
 Esse procedimento pode corrigir problemas de CORS e outros conflitos, eliminando bibliotecas duplicadas, versões incompatíveis ou arquivos temporários que o Node.js pode ter armazenado. É especialmente útil quando configurações e soluções prévias não surtiram efeito.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6412,7 +6706,12 @@ docker-compose up -d
 - ✅ Em ambientes de produção, utilize variáveis de ambiente para conexões e configurações sensíveis.
 - ✅ Mantenha seu `default.conf` dentro do contexto de build para evitar erros de caminho.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6480,7 +6779,12 @@ Define que as requisições do frontend sejam relativas ao caminho `/api`, que s
 
 📌 **Use este procedimento em deploys de produção que utilizem Nginx como proxy reverso para backend Node.js com frontend Vite/React, garantindo organização, segurança e praticidade.**
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6531,7 +6835,12 @@ git fetch --depth 1 origin 5140f8a9e86df725ad40fc556c6ad723b943bea1
 git checkout 5140f8a9e86df725ad40fc556c6ad723b943bea1
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6613,7 +6922,12 @@ git config --list
 | Salvar credenciais          | `git config --global credential.helper store`                        |
 | Alterar URL para usar token | `git remote set-url origin https://<TOKEN>@github.com/user/repo.git` |
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-9-resolu%C3%A7%C3%A3o-de-problemas-e-manuten%C3%A7%C3%A3o-do-projeto "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6751,7 +7065,12 @@ echo -e "\n✅ Limpeza concluída."
 * Recomendado rodar apenas quando realmente houver necessidade de liberar espaço.
 * Não remove dados de aplicações em uso.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-9-resolu%C3%A7%C3%A3o-de-problemas-e-manuten%C3%A7%C3%A3o-do-projeto "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6846,7 +7165,12 @@ echo -e "\n✅ Limpeza concluída (versão leve)."
 * Indicada para máquinas pequenas na AWS, Linode, DigitalOcean, etc.
 * Faz apenas a limpeza segura e básica do sistema.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-9-resolu%C3%A7%C3%A3o-de-problemas-e-manuten%C3%A7%C3%A3o-do-projeto "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -6966,7 +7290,12 @@ sudo chmod 1777 /tmp /var/tmp
 df -h
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-9-resolu%C3%A7%C3%A3o-de-problemas-e-manuten%C3%A7%C3%A3o-do-projeto "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -7009,7 +7338,12 @@ sudo docker system prune -a --volumes -f
 df -h
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#%EF%B8%8F-9-resolu%C3%A7%C3%A3o-de-problemas-e-manuten%C3%A7%C3%A3o-do-projeto "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -7207,7 +7541,12 @@ Para visualizar e escolher os ícones do **Font-Awesome**, você pode acessar o 
 
 Com essas informações, será fácil navegar pelo site e selecionar os ícones que você deseja utilizar no projeto! 🚀
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-%C3%ADcones-e-componentes-visuais "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -7417,7 +7756,12 @@ Coloque os trechos seguintes:
 
 Documentação oficial: [react-loading-indicators](https://react-loading-indicators.netlify.app/)
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-%C3%ADcones-e-componentes-visuais "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -7545,7 +7889,12 @@ export default PingComponent;
 
 Este componente é ideal para monitoramento básico. Para soluções mais avançadas, considere o uso de ferramentas especializadas e logs detalhados com frameworks de monitoramento.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -7621,7 +7970,12 @@ export function SystemSettings_BackgroundCategory({ number }) {
 - **Props**: As props permitem passar dados e configurações personalizadas para cada componente.
 - **Hooks**: `useEffect` pode ser usado para acionar efeitos colaterais com base no valor recebido.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -7865,7 +8219,12 @@ export default App;
 - Substitua `suporte@seudominio.com` pelo endereço de e-mail para onde as mensagens devem ser enviadas.
 - Certifique-se de que o backend esteja acessível ao frontend, configurando proxies ou utilizando um endereço de rede público.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8325,7 +8684,12 @@ changePageTitle("Novo Título da Página");
 
 Essa é uma abordagem simples, mas poderosa, para dinamicamente alterar o título da página.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-12-manipula%C3%A7%C3%A3o-de-objetos-no-dom-com-javascript "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8353,7 +8717,9 @@ Sua função pode ser executada por exemplo, em um elemento HTML escrita da segu
  onClick={handleYourFunction}
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8497,7 +8863,9 @@ export default FormularioAutoPreencher;
 
 Isso pode ser expandido para mais campos ou comportamentos adicionais conforme a necessidade!
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8656,7 +9024,9 @@ export default FormularioAutoPreencher;
 - **Reutilizável**: A função de preenchimento automático está separada e pode ser facilmente reutilizada em outros componentes ou módulos.
 - **Organização**: Deixa o código mais organizado, separando a lógica de preenchimento da interface do componente.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8755,7 +9125,9 @@ cnpj: removeMask(cnpjForm),
 - Fácil de manter e reutilizar em diferentes componentes.
 - Evita duplicação de funções específicas.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8783,7 +9155,9 @@ Esse código JavaScript executa as seguintes ações:
 
 Em resumo, esse código seleciona um botão com o id "myButton" e adiciona um ouvinte de evento para exibir um alerta "Hello World!" sempre que o botão for clicado.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8810,7 +9184,9 @@ return <button onClick={(event) => handleClick(event, "123")}>Clique aqui</butto
 
 > O `onClick={}` envia o evento, e no segundo parâmetro de `handleClick(event, "123")` será definido o valor a ser enviado. O resultado deste exemplo é exibido no `console`.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8830,7 +9206,9 @@ openPopup('https://www.google.com');
 
 Neste exemplo, a função `openPopup` recebe uma URL como parâmetro e utiliza o método `window.open` para abrir uma nova janela com a URL especificada. O segundo parâmetro da função `window.open` define o nome da janela (no caso, "popup"), e o terceiro parâmetro especifica as dimensões da janela. Você pode ajustar o tamanho de acordo com suas necessidades.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8858,7 +9236,9 @@ Para usar essa função em seu projeto React, basta chamá-la em algum evento de
 
 Este exemplo criará um botão que, quando clicado, abrirá uma janela popup com a URL "https://www.google.com" e as dimensões 800x600, centralizadas na tela.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8885,7 +9265,9 @@ console.log(numeroCaracteres); // 16
 
 Neste exemplo, a constante `numeroCaracteres` vai conter o número de caracteres do texto, que no caso é 16.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -8958,7 +9340,9 @@ Para utilizar a função `capitalizeWords` em um elemento HTML, basta chamá-la 
 
 Isso irá renderizar o texto "Este é um Exemplo de Título Capitalizado" dentro de um elemento `<h1>`.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9012,7 +9396,9 @@ Este código em ReactJS tem como objetivo capitalizar a primeira palavra de um p
 
 Esse código pode ser usado como referência para capitalizar a primeira palavra de um parágrafo e lidar com exceções de palavras específicas em seu projeto ReactJS.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9034,7 +9420,9 @@ function getMonthName(month) {
 
 Nesse exemplo, a função `getMonthName` recebe um número de mês (de 1 a 12) como argumento e retorna o nome do mês correspondente. O array `monthNames` contém os nomes dos meses em ordem, e a função usa o número do mês como índice para obter o nome correspondente do array. Note que a função subtrai 1 do número do mês, já que os arrays em JavaScript são indexados a partir de zero.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9076,7 +9464,9 @@ Além disso, estamos usando `behavior: 'smooth'` para uma rolagem suave. Se voc�
 
 Isso fará com que a página role para o topo sempre que a página "single" for carregada. Certifique-se de incorporar isso ao seu componente "single" existente.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9114,7 +9504,9 @@ Neste exemplo, a função `removeHtmlTags` aceita uma string com tags HTML e usa
 
 Por favor, note que ao usar `dangerouslySetInnerHTML`, você está inserindo HTML diretamente no DOM, o que pode ser arriscado se o conteúdo não for confiável. Certifique-se de que o conteúdo que você está exibindo é seguro para evitar ataques XSS (Cross-Site Scripting).
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9139,7 +9531,12 @@ A função `removeHtmlTags` recebe um texto que contém tags HTML e usa a expres
 
 Lembre-se de que essa abordagem remove todas as tags HTML, incluindo qualquer conteúdo que possa estar entre as tags. Certifique-se de que isso seja o que você deseja para o seu caso específico.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9247,7 +9644,12 @@ Por exemplo:
 
 Dessa forma, **`formatDate.js`** (e quaisquer outras funções auxiliares) ficariam num local mais organizado e significativo do ponto de vista da arquitetura do projeto.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9326,7 +9728,12 @@ No arquivo de estilos (CSS ou módulo CSS), configure variáveis e classe para o
 
 ✅ **Dica:** Basta alterar os valores de `companyLatitude` e `companyLongitude` para reutilizar este padrão em outros componentes.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9417,7 +9824,12 @@ Se quiser ajustar o espaçamento ou cores:
 
 Pronto! 🚀 Este é um código simples e eficaz que cumpre com os requisitos descritos.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9425,7 +9837,7 @@ Pronto! 🚀 Este é um código simples e eficaz que cumpre com os requisitos de
 
 Esta instrução define as regras básicas para criar um layout responsivo utilizando `@media queries` no CSS, separando os estilos por tipo de dispositivo com base nas larguras da tela.
 
-
+![Media Queries](./images/Media_Queries_para_Responsividade.png)
 
 ### ✅ Objetivo
 
@@ -9457,7 +9869,12 @@ Garantir que a aplicação web se adapte corretamente a diferentes tamanhos de t
 * A ordem das media queries pode influenciar o resultado se houver conflitos de estilo. Recomenda-se seguir do menor para o maior (mobile-first) ou o inverso (desktop-first), conforme a estratégia adotada.
 * Combine com boas práticas de layout flexível (Flexbox, Grid) para uma responsividade mais eficiente.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9531,7 +9948,12 @@ useEffect(() => {
 * Coloque seus arquivos CSS de temas em `./frontend/src/assets/css/themes/`
 * Mantenha o nome do ID (`theme-css`) padronizado para futuros upgrades no sistema de temas.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9541,8 +9963,8 @@ Para manter a produtividade e organização no desenvolvimento do projeto, utili
 
 |           Terminais no VSCode            | Informações                                                  |
 | :--------------------------------------: | ------------------------------------------------------------ |
-|      | A imagem ilustra como organizo e utilizo os terminais de forma separada em projetos que envolvem Backend e Frontend, com o objetivo de manter a estrutura organizada e otimizar a produtividade no desenvolvimento. |
-|  | Quando há a necessidade de trabalhar com mais de um projeto, posso organizá-los colocando cores além dos ícones, cores diferentes para cada projeto, assim, de forma que não me perca no que estou desenvolvendo. |
+|   ![Terminais](./images/Terminals.png)   | A imagem ilustra como organizo e utilizo os terminais de forma separada em projetos que envolvem Backend e Frontend, com o objetivo de manter a estrutura organizada e otimizar a produtividade no desenvolvimento. |
+| ![Terminais 2](./images/Terminals_2.png) | Quando há a necessidade de trabalhar com mais de um projeto, posso organizá-los colocando cores além dos ícones, cores diferentes para cada projeto, assim, de forma que não me perca no que estou desenvolvendo. |
 
 > ( i ) Marcos Auélio Rocha da Silva (Engenheiro de Software).
 >
@@ -9585,7 +10007,12 @@ Para manter a produtividade e organização no desenvolvimento do projeto, utili
 
 Essa prática simples ajuda a manter o foco e organiza melhor as tarefas enquanto o projeto está em desenvolvimento. 🚀
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9727,7 +10154,12 @@ Durante a execução:
 * Utilize **comentários para comunicação assíncrona** dentro do próprio Trello.
 * A cada novo projeto, **duplique um quadro anterior** como modelo base e adapte as listas conforme necessário.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#-16-meu-fluxo-de-trabalho-e-boas-pr%C3%A1ticas "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9847,7 +10279,12 @@ Com base nesse modelo, você pode criar componentes reutilizáveis e organizados
 Agora você pode usar este modelo genérico em seus futuros projetos. 🚀
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9885,7 +10322,12 @@ model User {
 - Após criar ou alterar um `enum`, sempre rode `npx prisma generate` e `npx prisma migrate dev` (ou `deploy`, se for produção) para aplicar as mudanças.
 - Enums são especialmente úteis para campos como `status`, `tipo`, `categoria`, `sexo`, entre outros.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -9942,7 +10384,12 @@ export type UserStatus = keyof typeof UserStatus
 
 Você pode criar um script para extrair os enums do Prisma e gerar arquivos para uso no frontend, garantindo consistência automática. (Se quiser esse script, posso gerar um exemplo.)
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10054,7 +10501,12 @@ Ou automatize após `prisma generate` com:
 }
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10149,7 +10601,12 @@ npx ts-node scripts/generate-enums.ts --schema ./apps/api/prisma/schema.prisma
 }
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10238,7 +10695,12 @@ const statuses = enums.Status
 </script>
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10288,7 +10750,12 @@ Na impressão de elementos, as classes aparecerão da seguinte forma:
 
 Essa é a estrutura básica para aplicação de CSS Modules em qualquer componente React. Com isso, você evita vazamento de estilo e mantém um escopo encapsulado e previsível.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10346,7 +10813,12 @@ Você pode sobrescrever variáveis em escopos menores, como em classes, para cri
 }
 ```
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10457,11 +10929,16 @@ chmod 400 /home/marcos/Documentos/AWS/GTi\ SiS/gti-sis.pem
 
 ### ✅ **Conclusão**
 
-
+![SFTP no VSCode](./images/SFTP_SiS_Float_Base.png)
 
 Essa configuração via **SFTP + PEM** integra de forma simples o VSCode a servidores AWS, mantendo **práticas seguras de chave privada** e garantindo agilidade em deploys manuais, manutenção ou acessos emergenciais.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10518,7 +10995,12 @@ Após rodar o comando, o `wrk` exibirá estatísticas como:
 * **Latency** → tempo médio de resposta do servidor.
 * **Throughput** → quantidade de dados transferidos.
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10545,7 +11027,12 @@ hey -n 1000 -c 50 https://seu.dominio.com.br/
 * `-n 1000` → Número total de requisições (1000)
 * `-c 50` → Número de conexões concorrentes (50)
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10570,7 +11057,12 @@ siege -c50 -t30S https://seu.dominio.com.br/
 * `-t30S` → Tempo de teste (30 segundos)
 * `-b` → Modo **benchmark** (sem pausas entre requisições)
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
@@ -10594,7 +11086,12 @@ ab -n 1000 -c 100 https://seu.dominio.com.br/
 * `-n 1000` → Número total de requisições (1000)
 * `-c 100` → Número de conexões simultâneas (100 usuários concorrentes)
 
-
+<!-- Botões de navegação -->
+[![Início](../../images/control/11273_control_stop_icon.png)](../../README.md#quicksnip "Início")
+[![Início](../../images/control/11269_control_left_icon.png)](../README.md#quicksnip "Voltar")
+[![Início](../../images/control/11277_control_stop_up_icon.png)](#quicksnip "Topo")
+[![Início](../../images/control/11280_control_up_icon.png)](#conteúdo "Conteúdo")
+<!-- /Botões de navegação -->
 
 ---
 
