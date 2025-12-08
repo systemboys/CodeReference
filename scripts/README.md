@@ -6,7 +6,7 @@
 
 Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e backend, utilizando React.JS no frontend e Prisma no backend.
 
-## Conteúdo {#content}
+## Conteúdo
 ## 📁 1. **Iniciando projetos**
    ### 🟩 **NodeJS**
    - 📘 [Guia de Inicialização de Backend Node.js com TypeScript e Prisma](#-guia-de-inicializa%C3%A7%C3%A3o-de-backend-nodejs-com-typescript-e-prisma "Guia de Inicialização de Backend Node.js com TypeScript e Prisma")
@@ -246,7 +246,7 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ⚡ 21. **Testes de Performance e Benchmark (CLI)**
    - 🚀 [wrk — Teste de carga em servidores HTTP](#-teste-de-carga-com-wrk "wrk — Teste de carga em servidores HTTP")
@@ -257,7 +257,7 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
 ---
 
 Este item "Scripts Prontos: Backend e Frontend" contém scripts prontos para diversos cenários, como formulários com integração completa entre frontend e backend, listagem de itens, edição, e exclusão com DataTables e outras funcionalidades. A ideia é que essa seção funcione como um guia rápido para montar um CRUD completo ou mesmo pacotes prontos que você pode adaptar e reutilizar facilmente.
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🚀 Guia de Inicialização de Backend Node.js com TypeScript e Prisma
 
@@ -422,7 +422,7 @@ app.get('/lotes', async (req, res) => {
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🎯 Parte 1: Inicialização do Frontend com React.js (em `./LotManager/frontend/`)
 
@@ -456,7 +456,7 @@ Acesse `http://localhost:5173` para ver a aplicação rodando.
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🎨 Organização inicial de diretórios (frontend)
 
@@ -496,7 +496,7 @@ export const api = axios.create({
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔧 Parte 2: Modularização do Backend (Node.js + TS + Prisma)
 
@@ -611,7 +611,7 @@ Pronto! Agora você tem o backend modularizado e o frontend inicializado com Vit
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔧 Projeto Fullstack – Node.js + Express + Prisma + React.js (Conexão MySQL HostGator)
 
@@ -842,7 +842,7 @@ export default App;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧪 Iniciar projeto React com Vite (JavaScript Puro)
 
@@ -922,7 +922,7 @@ npm run dev
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Instalar e Importar Bootstrap em Projeto Vite + React
 
@@ -980,7 +980,7 @@ export default App;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 💾 Gravando dados do formulário na tabela usando o ORM Prisma
 
@@ -1088,7 +1088,7 @@ Agora, o seu formulário enviará corretamente as informações para a rota `/ad
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🚫 Exemplo de Formulário com Validação e Interceptação de Submit
 
@@ -1229,7 +1229,7 @@ Um formulário funcional e validado, que impede o envio de campos vazios e exibe
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ⏳ Implementação de Indicador de Carregamento Centralizado para DataTable com React e CSS
 
@@ -1300,7 +1300,7 @@ Essas são as únicas modificações necessárias!
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧮 Formatação de Dados da API em um Array no Formato Específico (JSON)
 
@@ -1405,7 +1405,7 @@ Você pode adaptar essa estrutura para qualquer componente que precise buscar, f
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🆔 Rota Genérica para Consulta de Registro Único por ID
 
@@ -1521,7 +1521,7 @@ Essa abordagem permite que você reutilize essa estrutura genérica para buscar 
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔢 Rota para Obter o ID do Último Registro Criado
 
@@ -1603,7 +1603,7 @@ Adapte o código de acordo com seu ambiente (ex.: inclusão de headers, autentic
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ✏️ Edição de registros com formulário polimorfo
 
@@ -1820,7 +1820,7 @@ Com essa alteração, o valor do campo será sempre refletido corretamente no es
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧷 Exemplo Genérico: Sincronizando Valores do Formulário com Dados da API
 
@@ -1958,7 +1958,7 @@ Exemplo referência para lidar com formulários dinâmicos em React!
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🛠️ Editar dados de um registro no formulário
 
@@ -2017,7 +2017,7 @@ E no JSX dos campos:
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧰 Modelo Genérico para Formulários com Modo de Edição e Registro
 
@@ -2138,7 +2138,7 @@ export function GenericForm({ id, apiUrl }) {
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 📌 Utilizando o Operador Spread para Inserção Condicional de Propriedades
 
@@ -2222,7 +2222,7 @@ Ou seja, você só adiciona a propriedade `password` ao objeto final se de fato 
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ❗ Botão de exclusão com confirmação
 
@@ -2361,7 +2361,7 @@ Dessa forma, o `id` será passado corretamente para o componente `DeleteUser` e 
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧹 Exemplo Genérico de Rota DELETE com Parâmetros Dinâmicos e Filtragem
 
@@ -2465,7 +2465,7 @@ Essa estrutura pode ser reutilizada e adaptada facilmente para outras operaçõe
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🚮 Rota Genérica de Exclusão via ID e Integração com Frontend React
 
@@ -2590,7 +2590,7 @@ Esse guia genérico permite que você configure e reutilize a lógica de exclus�
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🆕 Rota de Criação de Registro (Create) com Prisma e Requisição no Frontend
 
@@ -2722,7 +2722,7 @@ export default CreateEntityForm;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 📖 Rota de Leitura de Registros (Read) com Prisma e Requisição no Frontend
 
@@ -2862,7 +2862,7 @@ Essa abordagem permite que a rota seja dinâmica e atenda a diferentes IDs forne
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🛠️ Rota de Atualização de Registro (Update) com Prisma e Requisição no Frontend
 
@@ -3019,7 +3019,7 @@ export default UpdateEntityForm;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🗑️ Rota de Exclusão de Registro (Delete) com Prisma e Requisição no Frontend
 
@@ -3125,7 +3125,7 @@ export default DeleteEntityButton;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧱 Refatoração de rotas e uso de controllers
 
@@ -3228,7 +3228,7 @@ Você pode começar com rotas simples e mover a lógica para controllers quando 
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🗂️ Exemplo Genérico de Organização de Rotas e Controllers
 
@@ -3345,7 +3345,7 @@ Este modelo genérico pode ser adaptado para qualquer aplicação com **Node.js*
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧠 Como mover a lógica de rotas para controllers para melhor organização
 
@@ -3353,7 +3353,7 @@ Organizar as rotas em controllers ajuda a manter o código do backend mais modul
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Estrutura Geral dos Controllers no Backend
 
@@ -3382,7 +3382,7 @@ Organize seu projeto em pastas para separar as rotas e controllers:
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Exemplo Genérico de Controller (entityController.js)
 
@@ -3480,7 +3480,7 @@ exports.deleteEntity = async (req, res) => {
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Exemplo Genérico de Rotas (entityRoutes.js)
 
@@ -3518,7 +3518,7 @@ module.exports = router;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Registro das Rotas no Express (app.js)
 
@@ -3560,7 +3560,7 @@ Esse modelo genérico ajuda a manter a organização do backend e facilita a reu
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🛠️ Vantagens da modularização e manutenibilidade do código
 
@@ -3609,7 +3609,7 @@ Essas vantagens tornam a modularização uma prática essencial para qualquer pr
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧭 Rota com Parâmetro Dinâmico e Filtragem por Chave Estrangeira no Prisma
 
@@ -3718,7 +3718,7 @@ Esse padrão ajuda a estruturar rotas e componentes de forma a serem reutilizáv
 ---
 
 > #### 💡 Instrução genérica de um CRUD (Create, Read, Update, Delete), com um padrão utilizado em projetos com Node.js + Express + Prisma no backend e React no frontend.
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧩 Instruções Genéricas para Criar um CRUD (Node.js + Express + Prisma + React)
 
@@ -3954,7 +3954,7 @@ fetch(`http://localhost:3333/exemplo/${id}`, {
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔁 Função Genérica para Consultas e Operações CRUD com Prisma
 
@@ -4080,7 +4080,7 @@ Essa estrutura dá flexibilidade para um CRUD genérico usando Prisma e TypeScri
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 📦 Componente de Paginação Genérico para Listas
 
@@ -4248,7 +4248,7 @@ INSERT INTO test_table (item_description, registration_date, registration_time, 
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ➕ Outro exemplo genérico com botões ilimitados com Reticências (...)
 
@@ -4440,7 +4440,7 @@ Esse layout otimiza a navegação para listas extensas, mantendo a interface sim
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Notificação de Conexão de Internet
 
@@ -4629,7 +4629,7 @@ Substitua o código antigo pelo novo componente e mantenha o mesmo fluxo de inte
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Modificação para substituir o alert() por uma mensagem estilizada
 
@@ -4702,7 +4702,7 @@ Este método é mais amigável do que o `alert` padrão e oferece uma experiênc
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Exemplo de Reutilização de Notificações com Diferentes Tipos
 
@@ -4821,7 +4821,7 @@ Este exemplo genérico pode ser facilmente reutilizado em qualquer projeto. Voc�
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Usar as notificações com 'CSS Modules'
 
@@ -4919,7 +4919,7 @@ Com isso, o "CSS Module" será aplicado corretamente para cada tipo de notifica�
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Adicionando Classe na Div Mãe
 
@@ -4983,7 +4983,7 @@ Esses passos garantem uma manipulação de classe consistente em modais ou janel
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Renderização Condicional de Elementos com Base na Largura da Tela em React.js
 
@@ -5040,7 +5040,7 @@ Esse componente é funcional e reutilizável. É só importar e usar no seu proj
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Navegação Dinâmica com React Router: Redirecionando para Componentes em uma SPA
 
@@ -5120,7 +5120,7 @@ Essa abordagem também mantém a navegação gerenciada pelo React Router, sem r
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Usando Imagens PNG como Ícones em Componentes React
 
@@ -5286,7 +5286,7 @@ Com isso, você pode organizar melhor seus assets e garantir que o caminho da im
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Uso de URLs Externas para Imagens em Componentes React
 
@@ -5353,7 +5353,7 @@ Com essa abordagem, você pode reutilizar o componente `ExternalIcon` para carre
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Preencher diferentes tipos de campos usando o console do navegador
 
@@ -5440,7 +5440,7 @@ Caso tenha mais campos ou queira ajustes, é só me avisar!
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🛡️ **Procedimentos para apontar domínio para AWS e ativar SSL na Cloudflare (modo Flexible)**
 
@@ -5450,7 +5450,7 @@ Este procedimento orienta como configurar um domínio comprado (ex.: Registro.BR
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔢 **Passo a passo detalhado**
 
@@ -5520,7 +5520,7 @@ Este procedimento orienta como configurar um domínio comprado (ex.: Registro.BR
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 💡 **Notas finais**
 
@@ -5529,7 +5529,7 @@ Este procedimento orienta como configurar um domínio comprado (ex.: Registro.BR
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔀 Configuração para forçar redirecionamento automático de http para https
 
@@ -5567,7 +5567,7 @@ Garante que qualquer solicitação feita com `http://` seja automaticamente redi
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Uso de Variáveis de Ambiente com Arquivo .env no React
 
@@ -5769,7 +5769,7 @@ Essas dicas devem resolver problemas.
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Guia: Como Acessar Dados do `localStorage` para Requisições API em Componentes React
 
@@ -5856,7 +5856,7 @@ Seguindo essas instruções, você conseguirá acessar dados do `localStorage` e
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Obter dados de um Array com `map()`
 
@@ -5911,7 +5911,7 @@ return (
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Executar Array dentro do retorno de um componente
 
@@ -5938,7 +5938,7 @@ Nesse exemplo, criamos um array `dataTableRecords` com três objetos que represe
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Mapeamento direto no map()
 
@@ -5965,7 +5965,7 @@ function MeuComponente() {
 ---
 
 # Pequenos macetes de Array
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Filtrar itens mistos de um array
 
@@ -5983,7 +5983,7 @@ console.log(array.filter(Number.isInteger));
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Filtrar os números ímpares de um array
 
@@ -6001,7 +6001,7 @@ console.log(array2.filter((number) => number % 2 !== 0));
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Retornar o index da idade maior que 30 anos
 
@@ -6025,7 +6025,7 @@ Quem é que nunca precisou manipular arrays? Extrair somente os IDs de uma lista
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Array map()
 
@@ -6071,7 +6071,7 @@ console.log(duplicados); // Retornando [2, 4, 6, 8, 10].
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Array filter()
 
@@ -6132,7 +6132,7 @@ const alimentos = produtos
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Array Reduce
 
@@ -6176,7 +6176,7 @@ console.log(total); // Retornando "39.2".
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Geração Rápida de Elementos com `Array.from` para Testes em Frontend
 
@@ -6223,7 +6223,7 @@ Você pode substituir o número `4` pela quantidade desejada e alterar o conteú
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Reinstalar Dependências para Resolver Problemas de Configuração ou Conflitos de CORS
 
@@ -6260,7 +6260,7 @@ Esse procedimento pode corrigir problemas de CORS e outros conflitos, eliminando
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🚀 **Deploy Docker: Frontend com Nginx + Backend Node.js (AWS e servidores reais)**
 
@@ -6409,7 +6409,7 @@ docker-compose up -d
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔀 **Configuração de Proxy Reverso Nginx + VITE_API_URL para Produção AWS**
 
@@ -6477,7 +6477,7 @@ Define que as requisições do frontend sejam relativas ao caminho `/api`, que s
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔙 Clonar repositório em commit específico (rollback rápido com Git)
 
@@ -6528,7 +6528,7 @@ git checkout 5140f8a9e86df725ad40fc556c6ad723b943bea1
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧭 Configuração de Identidade e Autenticação do Git
 
@@ -6610,7 +6610,7 @@ git config --list
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧹 Script de Limpeza de Disco no Servidor Linux
 
@@ -6748,7 +6748,7 @@ echo -e "\n✅ Limpeza concluída."
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧹 Script de Limpeza de Disco (Versão Leve)
 
@@ -6843,7 +6843,7 @@ echo -e "\n✅ Limpeza concluída (versão leve)."
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧹 Limpeza Manual de Disco no Linux (Comandos diretos)
 
@@ -6963,7 +6963,7 @@ df -h
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ⚡ Limpeza Rápida de Disco no Linux
 
@@ -7006,7 +7006,7 @@ df -h
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Como implementar Ícones Font-Awesome em componentes React
 
@@ -7204,7 +7204,7 @@ Com essas informações, será fácil navegar pelo site e selecionar os ícones 
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ⚡ Guia Prático de Loading Overlay em React
 
@@ -7414,7 +7414,7 @@ Documentação oficial: [react-loading-indicators](https://react-loading-indicat
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Componente de Ping React com Histórico de Respostas
 
@@ -7542,7 +7542,7 @@ Este componente é ideal para monitoramento básico. Para soluções mais avanç
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Implementação de Abas com Props para Componentes
 
@@ -7618,7 +7618,7 @@ export function SystemSettings_BackgroundCategory({ number }) {
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Envio de Emails com Backend utilizando Nodemailer
 
@@ -7862,7 +7862,7 @@ export default App;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Manipulação de Objetos no DOM com JavaScript
 
@@ -8268,7 +8268,7 @@ Se precisar de mais ajustes ou tiver dúvidas, é só perguntar! 😊
 ---
 
 Esses exemplos são altamente reutilizáveis e podem ser adaptados para diferentes cenários. Se precisar de mais adaptações ou esclarecimentos, é só pedir! 😊
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 📝 Manipulação Dinâmica do Título da Página com JavaScript
 
@@ -8321,7 +8321,7 @@ Essa é uma abordagem simples, mas poderosa, para dinamicamente alterar o títul
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Função simples
 
@@ -8349,7 +8349,7 @@ Sua função pode ser executada por exemplo, em um elemento HTML escrita da segu
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Preenchimento Automático de Formulários com React: Manipulação de Campos de Texto, Select, Radiobutton e Checkbox
 
@@ -8493,7 +8493,7 @@ Isso pode ser expandido para mais campos ou comportamentos adicionais conforme a
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Modularização de Funções de Preenchimento Automático de Formulários em React com Importação Externa
 
@@ -8652,7 +8652,7 @@ export default FormularioAutoPreencher;
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🎭 Utilizando Máscaras Genéricas em Formulários
 
@@ -8751,7 +8751,7 @@ cnpj: removeMask(cnpjForm),
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Exemplo de Adição de Evento de Clique em JavaScript
 
@@ -8779,7 +8779,7 @@ Em resumo, esse código seleciona um botão com o id "myButton" e adiciona um ou
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Passar uma propriedade de um elemento para uma arrow function
 
@@ -8806,7 +8806,7 @@ return <button onClick={(event) => handleClick(event, "123")}>Clique aqui</butto
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## PopUp com uma determinada URL passada via parâmetro
 
@@ -8826,7 +8826,7 @@ Neste exemplo, a função `openPopup` recebe uma URL como parâmetro e utiliza o
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## PopUp passando além de uma URL, dimensões e centralizada
 
@@ -8854,7 +8854,7 @@ Este exemplo criará um botão que, quando clicado, abrirá uma janela popup com
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Contar número de caracteres de uma string
 
@@ -8881,7 +8881,7 @@ Neste exemplo, a constante `numeroCaracteres` vai conter o número de caracteres
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Capitalizar nomes (ótimo para cadastro de pessoas)
 
@@ -8954,7 +8954,7 @@ Isso irá renderizar o texto "Este é um Exemplo de Título Capitalizado" dentro
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Capitalizar a primeira palavra de um parágrafo com exceções em ReactJS
 
@@ -9008,7 +9008,7 @@ Esse código pode ser usado como referência para capitalizar a primeira palavra
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Transformando meses de 01 a 12 em Janeiro a Dezembro
 
@@ -9030,7 +9030,7 @@ Nesse exemplo, a função `getMonthName` recebe um número de mês (de 1 a 12) c
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Como Rolar a Barra de Rotação para o Topo de uma Página ao Carregá-la com JavaScript
 
@@ -9074,7 +9074,7 @@ Isso fará com que a página role para o topo sempre que a página "single" for 
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Removendo Tags HTML em ReactJS: Uma Abordagem Simples e Segura
 
@@ -9112,7 +9112,7 @@ Por favor, note que ao usar `dangerouslySetInnerHTML`, você está inserindo HTM
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Removendo Tags HTML com ReactJS: Uma Abordagem Simples e Elegante
 
@@ -9137,7 +9137,7 @@ Lembre-se de que essa abordagem remove todas as tags HTML, incluindo qualquer co
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Função de Formatação de Data e Hora com Ajuste de Horas
 
@@ -9245,7 +9245,7 @@ Dessa forma, **`formatDate.js`** (e quaisquer outras funções auxiliares) ficar
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🌍 Guia de Inclusão de Mapas com Google Maps (iframe)
 
@@ -9321,7 +9321,7 @@ No arquivo de estilos (CSS ou módulo CSS), configure variáveis e classe para o
 ---
 
 ✅ **Dica:** Basta alterar os valores de `companyLatitude` e `companyLongitude` para reutilizar este padrão em outros componentes.
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Componentes Fixos e Posicionados no Layout com CSS
 
@@ -9412,7 +9412,7 @@ Pronto! 🚀 Este é um código simples e eficaz que cumpre com os requisitos de
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 📱 Diretivas de Media Queries para Responsividade (Desktop, Tablet e Smartphone)
 
@@ -9452,7 +9452,7 @@ Garantir que a aplicação web se adapte corretamente a diferentes tamanhos de t
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🎨 Mudar o Tema CSS Dinamicamente em Projetos React + Vite
 
@@ -9526,7 +9526,7 @@ useEffect(() => {
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Organização de Terminais: Fluxo de Trabalho Produtivo
 
@@ -9577,7 +9577,7 @@ Para manter a produtividade e organização no desenvolvimento do projeto, utili
 ---
 
 Essa prática simples ajuda a manter o foco e organiza melhor as tarefas enquanto o projeto está em desenvolvimento. 🚀
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧭 **Template – Criação de Quadros no Trello para Novos Projetos**
 
@@ -9587,7 +9587,7 @@ Estabelecer um modelo padrão de configuração no **Trello** para gerenciar pro
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧩 **1. Criação do Quadro**
 
@@ -9723,7 +9723,7 @@ Durante a execução:
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Recebendo e Usando Propriedades (`props`) em Componentes React
 
@@ -9843,7 +9843,7 @@ Agora você pode usar este modelo genérico em seus futuros projetos. 🚀
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Uso de ENUMs no Prisma ORM
 
@@ -9881,7 +9881,7 @@ model User {
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Integração de ENUM do Prisma com TypeScript
 
@@ -9938,7 +9938,7 @@ Você pode criar um script para extrair os enums do Prisma e gerar arquivos para
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Geração automática de enums Prisma para uso no frontend
 
@@ -10050,7 +10050,7 @@ Ou automatize após `prisma generate` com:
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Versão Avançada do Script de Geração de Enums
 
@@ -10145,7 +10145,7 @@ npx ts-node scripts/generate-enums.ts --schema ./apps/api/prisma/schema.prisma
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Como consumir enums do Prisma no frontend
 
@@ -10282,7 +10282,7 @@ Essa é a estrutura básica para aplicação de CSS Modules em qualquer componen
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## Modelo de Utilização de Variáveis CSS com `:root` e `var(--...)`
 
@@ -10348,7 +10348,7 @@ Conectar o VSCode via SFTP a servidores AWS EC2 ou outros, utilizando arquivo PE
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 📝 **1. Pré-requisitos**
 
@@ -10358,7 +10358,7 @@ Conectar o VSCode via SFTP a servidores AWS EC2 ou outros, utilizando arquivo PE
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔧 **2. Instalando o VSCode (caso necessário)**
 
@@ -10374,7 +10374,7 @@ sudo apt install code
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 💻 **3. Instalando a extensão SFTP**
 
@@ -10385,7 +10385,7 @@ sudo apt install code
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔑 **4. Configurando o `sftp.json`**
 
@@ -10425,7 +10425,7 @@ sudo apt install code
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🔐 **5. Ajustando permissão do PEM**
 
@@ -10437,7 +10437,7 @@ chmod 400 /home/marcos/Documentos/AWS/GTi\ SiS/gti-sis.pem
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🚀 **6. Utilizando**
 
@@ -10448,7 +10448,7 @@ chmod 400 /home/marcos/Documentos/AWS/GTi\ SiS/gti-sis.pem
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🛡️ **7. Notas de segurança corporativa**
 
@@ -10467,7 +10467,7 @@ Essa configuração via **SFTP + PEM** integra de forma simples o VSCode a servi
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## ⚡ Teste de Carga com `wrk`
 
@@ -10524,7 +10524,7 @@ Após rodar o comando, o `wrk` exibirá estatísticas como:
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 📦 `hey` — HTTP Load Generator
 
@@ -10551,7 +10551,7 @@ hey -n 1000 -c 50 https://seu.dominio.com.br/
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🛡️ `siege` — Stress Test & Regressão
 
@@ -10576,7 +10576,7 @@ siege -c50 -t30S https://seu.dominio.com.br/
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
 
 ## 🧪 `ab` — ApacheBench
 
@@ -10603,4 +10603,4 @@ ab -n 1000 -c 100 https://seu.dominio.com.br/
 
 ---
 
-**📑 [Voltar ao Índice](#content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
