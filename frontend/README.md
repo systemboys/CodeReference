@@ -230,7 +230,7 @@ O `useState` é a base para gerenciar estados em componentes funcionais e permit
 
 ---
 
-**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo)**
 
 ## Explicação detalhada sobre `useEffect` com exemplos práticos
 
@@ -377,7 +377,7 @@ O `useEffect` é um hook poderoso que permite realizar efeitos colaterais em com
 
 ---
 
-**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo)**
 
 ## O `useContext` para contexto global
 
@@ -572,7 +572,7 @@ O `useContext` é uma ferramenta poderosa para gerenciamento de dados globais em
 
 ---
 
-**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo)**
 
 ## Flexbox CSS: Guia Completo, Elementos e Exemplos
 
@@ -863,7 +863,7 @@ Por favor veja a explicação da propriedade `align-items` para entender quais s
 | Perfil | Especialização |
 | ------------------------------------------------------- | :----------------------------------------------------------- |
 | ![Juliana Amoasei](./images/css_flex_box/32266030.jpeg) | ***Juliana Amoasei***<br />Desenvolvedora JavaScript com background multidisciplinar, sempre aprendendo para ensinar e vice-versa. Acredito no potencial do conhecimento como agente de mudança pessoal e social. Atuo como instrutora na Escola de Programação da Alura e, fora da tela preta, me dedico ao Kung Fu e a nerdices em geral. |
-**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo)**
 
 ## Modelo de CSS Responsivo com Media Queries
 
@@ -934,7 +934,7 @@ Agora você pode usar este modelo para tornar suas aplicações responsivas de f
 
 ---
 
-**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo)**
 
 ## 🔍 Verificando a versão do React e React-DOM em projetos com frontend isolado
 
@@ -988,4 +988,4 @@ Em projetos estruturados com um diretório separado para o frontend (como `/fron
 
 ---
 
-**📑 [Voltar ao Índice](#conte%C3%BAdo-content)**
+**📑 [Voltar ao Índice](#conte%C3%BAdo)**
