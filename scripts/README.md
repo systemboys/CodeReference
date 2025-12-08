@@ -6,7 +6,7 @@
 
 Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e backend, utilizando React.JS no frontend e Prisma no backend.
 
-## Conteúdo
+## Conteúdo {#conteúdo}
 ## 📁 1. **Iniciando projetos**
    ### 🟩 **NodeJS**
    - 📘 [Guia de Inicialização de Backend Node.js com TypeScript e Prisma](#-guia-de-inicializa%C3%A7%C3%A3o-de-backend-nodejs-com-typescript-e-prisma "Guia de Inicialização de Backend Node.js com TypeScript e Prisma")
@@ -18,7 +18,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
    ### ⚡ **Com o Vite**
    - ⚙️ [Iniciar projeto React com Vite (JavaScript Puro)](#-iniciar-projeto-react-com-vite-javascript-puro "Iniciar projeto React com Vite (JavaScript Puro)")
    - 🎨 [Instalar e Importar Bootstrap em Projeto Vite + React](#instalar-e-importar-bootstrap-em-projeto-vite--react "Instalar e Importar Bootstrap em Projeto Vite + React")
-
 ## 🔄 2. **Exemplos CRUD com React e Prisma**
    ### 📝 **Formulário de Cadastro (Create)**
    - 🧾 Formulário simples de cadastro com validação de campos
@@ -85,7 +84,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
        - 🗑️ [Exclusão de um item (delete)](#%EF%B8%8F-exclus%C3%A3o-de-um-item-delete "Exclusão de um item (delete)")
      - 📌 [4. Considerações Importantes](#-4-considera%C3%A7%C3%B5es-importantes "4. Considerações Importantes")
      - ➕ [5. Extensão para Outros Parâmetros](#-5-extens%C3%A3o-para-outros-par%C3%A2metros "5. Extensão para Outros Parâmetros")
-
 ## 📄 3. **Paginação de Listas com React e Prisma**
    - 📦 [Componente de Paginação Genérico para Listas](#-componente-de-pagina%C3%A7%C3%A3o-gen%C3%A9rico-para-listas "Componente de Paginação Genérico para Listas")
      - 📁 [Arquivo de Rota: `routes.ts`](#-arquivo-routests "Arquivo de Rota: `routes.ts`")
@@ -93,13 +91,11 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
    - ➕ [Outro exemplo genérico com botões ilimitados com Reticências (...)](#-outro-exemplo-gen%C3%A9rico-com-bot%C3%B5es-ilimitados-com-retic%C3%AAncias- "Outro exemplo genérico com botões ilimitados com Reticências (...)")
      - ⚙️ [Passo 1: Criar a Função de Geração de Páginas](#%EF%B8%8F-passo-1-criar-a-fun%C3%A7%C3%A3o-de-gera%C3%A7%C3%A3o-de-p%C3%A1ginas "Passo 1: Criar a Função de Geração de Páginas")
      - 🧮 [Passo 2: Implementar a Exibição de Botões de Paginação](#-passo-2-implementar-a-exibi%C3%A7%C3%A3o-de-bot%C3%B5es-de-pagina%C3%A7%C3%A3o "Passo 2: Implementar a Exibição de Botões de Paginação")
-
 ## 🔔 4. **Notificações no Frontend com React**
    - 🌐 [Notificação de `Conexão` de `Internet`](#notifica%C3%A7%C3%A3o-de-conex%C3%A3o-de-internet "Notificação de Conexão de Internet")
    - ✨ [Modificação para substituir o `alert()` por uma mensagem estilizada](#modifica%C3%A7%C3%A3o-para-substituir-o-alert-por-uma-mensagem-estilizada "Modificação para substituir o alert() por uma mensagem estilizada")
    - 🔁 [Exemplo de Reutilização de Notificações com `Diferentes Tipos`](#exemplo-de-reutiliza%C3%A7%C3%A3o-de-notifica%C3%A7%C3%B5es-com-diferentes-tipos "Exemplo de Reutilização de Notificações com Diferentes Tipos")
    - 🎨 [Usar as notificações com `CSS Modules`](#usar-as-notifica%C3%A7%C3%B5es-com-css-modules "Usar as notificações com 'CSS Modules'")
-
 ## 🪟 5. **Trabalhando Fenestra, API de janelas para react/redux**
    ### 🛠️ **Corrigindo problemas**
    - 📝 Formulário simples de cadastro com validação de campos
@@ -109,11 +105,9 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
 
    ### 🖼️ [Usando Imagens PNG como Ícones em Componentes React](#usando-imagens-png-como-%C3%ADcones-em-componentes-react "Usando Imagens PNG como Ícones em Componentes React")
    - 🌍 [Uso de URLs Externas para Imagens em Componentes React](#uso-de-urls-externas-para-imagens-em-componentes-react "Uso de URLs Externas para Imagens em Componentes React")
-
 ## 🧪 6. **Testes e Simulações de Interface**
    ### ⚙️ **Preenchimento Automático de Formulários com JavaScript Nativo**
    - 💻 [Preencher diferentes tipos de campos usando o console do navegador](#preencher-diferentes-tipos-de-campos-usando-o-console-do-navegador "Preencher diferentes tipos de campos usando o console do navegador")
-
 ## 🔐 7. **Configuração e Segurança em Projetos React**
    ### 🛡️ **Cloudflare e Domínios**
    - 🛡️ [Procedimentos para apontar domínio para AWS e ativar SSL na Cloudflare (modo Flexible)](#%EF%B8%8F-procedimentos-para-apontar-dom%C3%ADnio-para-aws-e-ativar-ssl-na-cloudflare-modo-flexible "Procedimentos para apontar domínio para AWS e ativar SSL na Cloudflare (modo Flexible)")
@@ -132,7 +126,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
      - 🔍 [Instruções para acessar dados como `companyId` do `localStorage` em componentes React](#passo-a-passo-1 "Instruções para acessar dados como `companyId` do `localStorage` em componentes React")
      - 🧰 [Exemplo genérico para reutilização em múltiplos componentes](#exemplo-gen%C3%A9rico "Exemplo genérico para reutilização em múltiplos componentes")
      - 🛡️ [Considerações de segurança e verificação de dados antes do uso](#reutiliza%C3%A7%C3%A3o-em-outros-componentes "Considerações de segurança e verificação de dados antes do uso")
-
 ## 🧮 8. **Manipulação de Arrays em JavaScript**
    - 🔄 [Obter dados de um `Array` com o `map()`](#obter-dados-de-um-array-com-map "Obter dados de um Array com map()")
    - 🧬 [Executar Array dentro do retorno de um componente](#executar-array-dentro-do-retorno-de-um-componente "Executar Array dentro do retorno de um componente")
@@ -150,7 +143,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
 
    ### 🧠 [Pequenos macetes de Array](#pequenos-macetes-de-array "Pequenos macetes de Array")
    - 🧪 [Gerar múltiplos elementos com `Array.from()` para prototipação de componentes](#gera%C3%A7%C3%A3o-r%C3%A1pida-de-elementos-com-arrayfrom-para-testes-em-frontend "Gerar múltiplos elementos com Array.from() para prototipação de componentes")
-
 ## 🛠️ 9. **Resolução de Problemas e Manutenção do Projeto**
    - ♻️ [Reinstalar Dependências para Resolver Problemas de Configuração ou Conflitos de CORS](#reinstalar-depend%C3%AAncias-para-resolver-problemas-de-configura%C3%A7%C3%A3o-ou-conflitos-de-cors "Reinstalar Dependências para Resolver Problemas de Configuração ou Conflitos de CORS")
    - 🚀 [Deploy Docker: Frontend com Nginx + Backend Node.js (AWS e servidores reais)](#-deploy-docker-frontend-com-nginx--backend-nodejs-aws-e-servidores-reais "Deploy Docker: Frontend com Nginx + Backend Node.js (AWS e servidores reais)")
@@ -161,7 +153,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
    - 🧹 [Script de Limpeza de Disco (Versão Leve)](#-script-de-limpeza-de-disco-vers%C3%A3o-leve "Script de Limpeza de Disco (Versão Leve)")
    - 🧹 [Limpeza Manual de Disco no Linux (Comandos diretos)](#-limpeza-manual-de-disco-no-linux-comandos-diretos "Limpeza Manual de Disco no Linux (Comandos diretos)")
    - ⚡ [Limpeza Rápida de Disco no Linux](#-limpeza-r%C3%A1pida-de-disco-no-linux "Limpeza Rápida de Disco no Linux")
-
 ## 🧱 10. **Estrutura e Implementação de Componentes**
    ### 🎨 **Ícones e Componentes Visuais**
    - ⭐ [Implementação de `Ícones Font-Awesome` em Componentes React](#como-implementar-%C3%ADcones-font-awesome-em-componentes-react "Implementação de Ícones Font-Awesome em Componentes React")
@@ -173,7 +164,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
    - 🔗 [Passagem de Props e Uso de Hooks em Componentes Filhos de Abas](#componentes-filhos---exemplo-com-systemsettings_backgroundcategory "Passagem de Props e Uso de Hooks em Componentes Filhos de Abas")
    - 📏 [Renderização Condicional de Elementos com Base na Largura da Tela em React.js](#renderiza%C3%A7%C3%A3o-condicional-de-elementos-com-base-na-largura-da-tela-em-reactjs "Renderização Condicional de Elementos com Base na Largura da Tela em React.js")
    - 🧭 [Navegação Dinâmica com React Router para Redirecionamento](#navega%C3%A7%C3%A3o-din%C3%A2mica-com-react-router-redirecionando-para-componentes-em-uma-spa "Navegação Dinâmica com React Router para Redirecionamento")
-
 ## ✉️ 11. **Envio de Emails e Comunicação Backend**
    ### 📤 **Envio de Emails com Nodemailer**
    - 🗂️ [Estrutura de Diretórios para Projeto de Envio de Emails](#estrutura-de-diret%C3%B3rios "Estrutura de Diretórios para Projeto de Envio de Emails")
@@ -182,7 +172,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
    - 🔐 [Uso de Arquivo `.env` para Configurações Sensíveis](#4-configura%C3%A7%C3%A3o-do-env "Uso de Arquivo .env para Configurações Sensíveis")
    - 🔗 [Integração com o Frontend (React)](#configura%C3%A7%C3%A3o-do-frontend "Integração com o Frontend (React)")
    - ▶️ [Instruções para Executar o Projeto](#executar-o-projeto "Instruções para Executar o Projeto")
-
 ## 🧩 12. **Manipulação de Objetos no DOM com JavaScript**
    - ❌ [Remover um Elemento Específico pelo ID](#-remover-um-elemento-espec%C3%ADfico-pelo-id "Remover um Elemento Específico pelo ID")
    - 🔼 [Adicionar um Elemento Antes de Outro no DOM](#-adicionar-um-elemento-antes-de-outro-no-dom "Adicionar um Elemento Antes de Outro no DOM")
@@ -194,7 +183,6 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
    - 🧷 [Adicionar um Novo Elemento como Filho de Outro](#-adicionar-um-novo-elemento-como-filho-de-outro "Adicionar um Novo Elemento como Filho de Outro")
    - ➕ [Adicionar uma Linha Depois de Outra Linha em uma Tabela](#-exemplo-de-uso-para-estruturas-de-tabela "Adicionar uma Linha Depois de Outra Linha em uma Tabela")
    - 📝 [Manipulação Dinâmica do Título da Página com JavaScript](#-manipula%C3%A7%C3%A3o-din%C3%A2mica-do-t%C3%ADtulo-da-p%C3%A1gina-com-javascript "Manipulação Dinâmica do Título da Página com JavaScript")
-
 ## 🧰 13. **Funções Utilitárias e Automatizações**
    - 🔧 [Função simples](#fun%C3%A7%C3%A3o-simples "Função simples")
      - 🤖 [Preenchimento Automático de Formulários com React: Manipulação de Campos de Texto, Select, Radiobutton e Checkbox](#preenchimento-autom%C3%A1tico-de-formul%C3%A1rios-com-react-manipula%C3%A7%C3%A3o-de-campos-de-texto-select-radiobutton-e-checkbox "Preenchimento Automático de Formulários com React: Manipulação de Campos de Texto, Select, Radiobutton e Checkbox")
@@ -212,18 +200,15 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
    - 🧼 [Removendo Tags HTML em ReactJS: Uma Abordagem Simples e Segura](#removendo-tags-html-em-reactjs-uma-abordagem-simples-e-segura "Removendo Tags HTML em ReactJS: Uma Abordagem Simples e Segura")
    - ✂️ [Removendo Tags HTML com ReactJS: Uma Abordagem Simples e Elegante](#removendo-tags-html-com-reactjs-uma-abordagem-simples-e-elegante "Removendo Tags HTML com ReactJS: Uma Abordagem Simples e Elegante")
    - ⏰ [Função de Formatação de Data e Hora com Ajuste de Horas](#fun%C3%A7%C3%A3o-de-formata%C3%A7%C3%A3o-de-data-e-hora-com-ajuste-de-horas "Função de Formatação de Data e Hora com Ajuste de Horas")
-
 ## 🌐 14. **Incorporando Serviços Externos em Aplicações React**
    ### 🗺️ **Google Maps**
    - 🌍 [Guia de Inclusão de Mapas com Google Maps (iframe)](#-guia-de-inclus%C3%A3o-de-mapas-com-google-maps-iframe "Guia de Inclusão de Mapas com Google Maps (iframe)")
-
 ## 🎨 15. **CSS e Layouts em React**
    - 🧱 [Componentes Fixos e Posicionados no Layout com CSS](#componentes-fixos-e-posicionados-no-layout-com-css "Componentes Fixos e Posicionados no Layout com CSS")
      - 📌 [Implementação de Quadros no Canto Inferior Direito](#estrutura-do-componente-react "Implementação de Quadros no Canto Inferior Direito")
      - 📏 [Estilização de Componentes com Altura Flexível](#estilos-css-floatingboxescss "Estilização de Componentes com Altura Flexível")
    - 📱 [Diretivas de Media Queries para Responsividade (Desktop, Tablet e Smartphone)](#-diretivas-de-media-queries-para-responsividade-desktop-tablet-e-smartphone "Diretivas de Media Queries para Responsividade (Desktop, Tablet e Smartphone)")
    - 🎨 [Mudar o Tema CSS Dinamicamente em Projetos React + Vite](#-mudar-o-tema-css-dinamicamente-em-projetos-react--vite "Mudar o Tema CSS Dinamicamente em Projetos React + Vite")
-
 ## 🧠 16. **Meu Fluxo de Trabalho e Boas Práticas**
    ### 🗂️ **Organização Pessoal e Produtividade**
    - 🧘 Como organizo meus ambientes de trabalho e softwares abertos
@@ -241,27 +226,28 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
 
    ### 🤝 **Boas Práticas**
    - 🌱 Boas Práticas de Colaboração em Projetos Git
-
 ## 🧬 17. **Recebendo e Usando Propriedades (`props`) em Componentes React**
    - 🧩 [Modelo Genérico para Receber e Usar Props em Componentes React](#recebendo-e-usando-propriedades-props-em-componentes-react "Modelo Genérico para Receber e Usar Props em Componentes React")
      - ⚛️ [Exemplo para Componentes Funcionais](#componente-funcional "Exemplo para Componentes Funcionais")
      - 🏗️ [Exemplo para Componentes de Classe](#componente-de-classe "Exemplo para Componentes de Classe")
      - 📐 [Boas Práticas com PropTypes e TypeScript](#boas-pr%C3%A1ticas-tipagem-e-valida%C3%A7%C3%A3o "Boas Práticas com PropTypes e TypeScript")
-
 ## 🧾 18. **Modelos e Automatizações com Prisma**
    - 🔣 [Uso de ENUMs no Prisma ORM](#uso-de-enums-no-prisma-orm "Uso de ENUMs no Prisma ORM")
    - 🔗 [Integração de ENUM do Prisma com TypeScript](#integra%C3%A7%C3%A3o-de-enum-do-prisma-com-typescript "Integração de ENUM do Prisma com TypeScript")
    - 🔄 [Geração automática de enums Prisma para uso no frontend](#gera%C3%A7%C3%A3o-autom%C3%A1tica-de-enums-prisma-para-uso-no-frontend "Geração automática de enums Prisma para uso no frontend")
    - ⚙️ [Versão Avançada do Script de Geração de Enums](#vers%C3%A3o-avan%C3%A7ada-do-script-de-gera%C3%A7%C3%A3o-de-enums "Versão Avançada do Script de Geração de Enums")
    - 🧩 [Como consumir enums do Prisma no frontend](#como-consumir-enums-do-prisma-no-frontend "Como consumir enums do Prisma no frontend")
-
 ## 🎨 19. **Estilização no React com CSS**
    - 🧩 [Utilizando CSS Modules no React](#utilizando-css-modules-no-react "Utilizando CSS Modules no React")
    - 🎨 [Modelo de Utilização de Variáveis CSS com :root e var()](#modelo-de-utiliza%C3%A7%C3%A3o-de-vari%C3%A1veis-css-com-root-e-var-- "Modelo de Utilização de Variáveis CSS com :root e var()")
-
 ## 🖥️ 20. **Configuração de Ambiente e Ferramentas de Desenvolvimento**
    #### 🔧 **VSCode**
    - 📄 [Configuração do SFTP no VSCode (Debian Linux)](#-configura%C3%A7%C3%A3o-do-sftp-no-vscode-debian-linux "Configuração do SFTP no VSCode (Debian Linux)")
+
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## ⚡ 21. **Testes de Performance e Benchmark (CLI)**
    - 🚀 [wrk — Teste de carga em servidores HTTP](#-teste-de-carga-com-wrk "wrk — Teste de carga em servidores HTTP")
    - 📦 [hey — HTTP load generator](#-hey--http-load-generator "hey — HTTP load generator")
@@ -271,6 +257,7 @@ Exemplos de CRUD (Create, Read, Update, Delete) com integração de frontend e b
 ---
 
 Este item "Scripts Prontos: Backend e Frontend" contém scripts prontos para diversos cenários, como formulários com integração completa entre frontend e backend, listagem de itens, edição, e exclusão com DataTables e outras funcionalidades. A ideia é que essa seção funcione como um guia rápido para montar um CRUD completo ou mesmo pacotes prontos que você pode adaptar e reutilizar facilmente.
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🚀 Guia de Inicialização de Backend Node.js com TypeScript e Prisma
 
@@ -435,6 +422,8 @@ app.get('/lotes', async (req, res) => {
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🎯 Parte 1: Inicialização do Frontend com React.js (em `./LotManager/frontend/`)
 
 ### 1. Criar o projeto com Vite + TypeScript
@@ -466,6 +455,8 @@ npm run dev
 Acesse `http://localhost:5173` para ver a aplicação rodando.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🎨 Organização inicial de diretórios (frontend)
 
@@ -504,6 +495,8 @@ export const api = axios.create({
 ```
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🔧 Parte 2: Modularização do Backend (Node.js + TS + Prisma)
 
@@ -617,6 +610,8 @@ app.listen(PORT, () => {
 Pronto! Agora você tem o backend modularizado e o frontend inicializado com Vite + React + TypeScript, prontos para evoluir com sua aplicação LotManager.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🔧 Projeto Fullstack – Node.js + Express + Prisma + React.js (Conexão MySQL HostGator)
 
@@ -847,6 +842,8 @@ export default App;
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🧪 Iniciar projeto React com Vite (JavaScript Puro)
 
 Aqui está um modelo de instrução, explicando como iniciar um projeto frontend com **Vite + React** utilizando **JavaScript puro (sem TypeScript)**. Você pode adaptá-lo conforme seus padrões futuros.
@@ -925,6 +922,8 @@ npm run dev
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Instalar e Importar Bootstrap em Projeto Vite + React
 
 > 📌 **Cenário**: Projeto Vite com React + JavaScript **já criado**
@@ -980,6 +979,8 @@ export default App;
 * O React-Bootstrap cuida da lógica e estilos dos componentes para você.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 💾 Gravando dados do formulário na tabela usando o ORM Prisma
 
@@ -1086,6 +1087,8 @@ Depois de adicionar o administrador com sucesso ou se houver algum erro, você p
 Agora, o seu formulário enviará corretamente as informações para a rota `/addAdmins`, e a rota salvará os dados no banco de dados.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🚫 Exemplo de Formulário com Validação e Interceptação de Submit
 
@@ -1226,6 +1229,8 @@ Um formulário funcional e validado, que impede o envio de campos vazios e exibe
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## ⏳ Implementação de Indicador de Carregamento Centralizado para DataTable com React e CSS
 
 Passos com as modificações necessárias, para inplementação de indicador de carregamento.
@@ -1294,6 +1299,8 @@ Passos com as modificações necessárias, para inplementação de indicador de 
 Essas são as únicas modificações necessárias!
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧮 Formatação de Dados da API em um Array no Formato Específico (JSON)
 
@@ -1397,6 +1404,8 @@ Os dados abaixo, são expostos no formato `json`:
 Você pode adaptar essa estrutura para qualquer componente que precise buscar, formatar e exibir dados!
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🆔 Rota Genérica para Consulta de Registro Único por ID
 
@@ -1512,6 +1521,8 @@ Essa abordagem permite que você reutilize essa estrutura genérica para buscar 
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🔢 Rota para Obter o ID do Último Registro Criado
 
 Para retornar apenas o ID do último registro, você pode usar o Prisma para buscar um único registro ordenado de forma decrescente pela data de criação (`createdAt`). Aqui está a rota ajustada:
@@ -1591,6 +1602,8 @@ fetchLastEntityId();
 Adapte o código de acordo com seu ambiente (ex.: inclusão de headers, autenticação, etc.).
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## ✏️ Edição de registros com formulário polimorfo
 
@@ -1807,6 +1820,8 @@ Com essa alteração, o valor do campo será sempre refletido corretamente no es
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🧷 Exemplo Genérico: Sincronizando Valores do Formulário com Dados da API
 
 Este exemplo demonstra como criar um formulário React onde os valores iniciais vêm de uma API e podem ser atualizados dinamicamente pelos usuários. Ele resolve problemas comuns ao lidar com `defaultValue` substituindo-o por `value` vinculado ao estado.
@@ -1943,6 +1958,8 @@ Exemplo referência para lidar com formulários dinâmicos em React!
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🛠️ Editar dados de um registro no formulário
 
 ### Implementação Ajustada
@@ -1999,6 +2016,8 @@ E no JSX dos campos:
 ```
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧰 Modelo Genérico para Formulários com Modo de Edição e Registro
 
@@ -2119,6 +2138,8 @@ export function GenericForm({ id, apiUrl }) {
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 📌 Utilizando o Operador Spread para Inserção Condicional de Propriedades
 
 O operador *spread* (reticências: `...`) pode ser usado para “espalhar” as propriedades de um objeto ou os elementos de um array dentro de um novo objeto ou array. Ele é útil, por exemplo, para criar cópias ou mesclar dados, sem modificar o original. 
@@ -2200,6 +2221,8 @@ serve para **incluir condicionalmente** a propriedade `password` no objeto `data
 Ou seja, você só adiciona a propriedade `password` ao objeto final se de fato houver uma nova senha definida. Se não houver, a propriedade simplesmente não é incluída.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## ❗ Botão de exclusão com confirmação
 
@@ -2338,6 +2361,8 @@ Dessa forma, o `id` será passado corretamente para o componente `DeleteUser` e 
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🧹 Exemplo Genérico de Rota DELETE com Parâmetros Dinâmicos e Filtragem
 
 Este exemplo mostra como criar uma rota DELETE que recebe múltiplos parâmetros dinâmicos. Esse padrão é útil para excluir registros com base em uma relação entre duas entidades (por exemplo, um administrador associado a uma empresa).
@@ -2439,6 +2464,8 @@ const handleDelete = async (parentId, childId) => {
 Essa estrutura pode ser reutilizada e adaptada facilmente para outras operações de exclusão em sistemas com relações de chave estrangeira.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🚮 Rota Genérica de Exclusão via ID e Integração com Frontend React
 
@@ -2562,6 +2589,8 @@ export default DeleteButton;
 Esse guia genérico permite que você configure e reutilize a lógica de exclusão de registros com facilidade em diversos componentes e tabelas do seu sistema.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🆕 Rota de Criação de Registro (Create) com Prisma e Requisição no Frontend
 
@@ -2692,6 +2721,8 @@ export default CreateEntityForm;
 3. **Requisição**: Faça a requisição `POST`, trate a resposta e exiba uma mensagem de sucesso ou erro para o usuário.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 📖 Rota de Leitura de Registros (Read) com Prisma e Requisição no Frontend
 
@@ -2830,6 +2861,8 @@ Neste exemplo:
 Essa abordagem permite que a rota seja dinâmica e atenda a diferentes IDs fornecidos, tornando-a mais versátil e útil em cenários de consultas específicas!
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🛠️ Rota de Atualização de Registro (Update) com Prisma e Requisição no Frontend
 
@@ -2986,6 +3019,8 @@ export default UpdateEntityForm;
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🗑️ Rota de Exclusão de Registro (Delete) com Prisma e Requisição no Frontend
 
 ### Rota Backend: Exclusão de Registro (Delete)
@@ -3090,6 +3125,8 @@ export default DeleteEntityButton;
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🧱 Refatoração de rotas e uso de controllers
 
 Sim, é totalmente possível adicionar **controllers** no seu projeto futuramente, mesmo que você já tenha definido as rotas diretamente em um arquivo de rotas, como o `routes.ts`. Adicionar controllers ajuda a manter o código mais organizado e modularizado, especialmente à medida que o sistema cresce em complexidade.
@@ -3190,6 +3227,8 @@ routes.get("/singleUser/:companyId/:id", singleUser); // Rota para buscar detalh
 Você pode começar com rotas simples e mover a lógica para controllers quando o projeto crescer ou quando sentir que é necessário. Isso não vai causar nenhum problema para o seu projeto e, na verdade, vai melhorar a organização do código a longo prazo.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🗂️ Exemplo Genérico de Organização de Rotas e Controllers
 
@@ -3306,11 +3345,15 @@ Este modelo genérico pode ser adaptado para qualquer aplicação com **Node.js*
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🧠 Como mover a lógica de rotas para controllers para melhor organização
 
 Organizar as rotas em controllers ajuda a manter o código do backend mais modular e fácil de manter. Veja exemplos genéricos de controllers para cada parte do CRUD (Create, Read, Update, Delete) e uma estrutura para as rotas no Express que pode ser facilmente adaptada.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Estrutura Geral dos Controllers no Backend
 
@@ -3338,6 +3381,8 @@ Organize seu projeto em pastas para separar as rotas e controllers:
 3. **app.js/server.js**: Arquivos de configuração do Express, onde as rotas são importadas e registradas.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Exemplo Genérico de Controller (entityController.js)
 
@@ -3435,6 +3480,8 @@ exports.deleteEntity = async (req, res) => {
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Exemplo Genérico de Rotas (entityRoutes.js)
 
 No arquivo `entityRoutes.js`, definimos as rotas e associamos cada uma a uma função do controller.
@@ -3470,6 +3517,8 @@ module.exports = router;
 - **Controller**: As funções do controller são importadas e associadas a cada rota.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Registro das Rotas no Express (app.js)
 
@@ -3510,6 +3559,8 @@ module.exports = app;
 Esse modelo genérico ajuda a manter a organização do backend e facilita a reutilização de código para diferentes entidades!
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🛠️ Vantagens da modularização e manutenibilidade do código
 
@@ -3557,6 +3608,8 @@ A modularização e a manutenibilidade são princípios essenciais para manter u
 Essas vantagens tornam a modularização uma prática essencial para qualquer projeto de desenvolvimento de software, especialmente à medida que o projeto cresce em complexidade e equipe.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧭 Rota com Parâmetro Dinâmico e Filtragem por Chave Estrangeira no Prisma
 
@@ -3665,6 +3718,7 @@ Esse padrão ajuda a estruturar rotas e componentes de forma a serem reutilizáv
 ---
 
 > #### 💡 Instrução genérica de um CRUD (Create, Read, Update, Delete), com um padrão utilizado em projetos com Node.js + Express + Prisma no backend e React no frontend.
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧩 Instruções Genéricas para Criar um CRUD (Node.js + Express + Prisma + React)
 
@@ -3900,6 +3954,8 @@ fetch(`http://localhost:3333/exemplo/${id}`, {
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🔁 Função Genérica para Consultas e Operações CRUD com Prisma
 
 ### Implementando um CRUD Genérico com TypeScript e Prisma para Consultas Dinâmicas
@@ -4023,6 +4079,8 @@ Caso você queira incluir outros tipos de comportamento, como passar o tipo de r
 Essa estrutura dá flexibilidade para um CRUD genérico usando Prisma e TypeScript, além de ser escalável e fácil de adaptar.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 📦 Componente de Paginação Genérico para Listas
 
@@ -4189,6 +4247,8 @@ INSERT INTO test_table (item_description, registration_date, registration_time, 
 ```
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## ➕ Outro exemplo genérico com botões ilimitados com Reticências (...)
 
@@ -4380,6 +4440,8 @@ Esse layout otimiza a navegação para listas extensas, mantendo a interface sim
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Notificação de Conexão de Internet
 
 Este exemplo implementa uma notificação simples que alerta o usuário quando a conexão com a internet é perdida. Ele utiliza **React hooks** e **event listeners** para monitorar o status de conexão (`online` e `offline`).
@@ -4567,6 +4629,8 @@ Substitua o código antigo pelo novo componente e mantenha o mesmo fluxo de inte
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Modificação para substituir o alert() por uma mensagem estilizada
 
 Aqui está a modificação para substituir o `alert()` por uma mensagem estilizada exibida no canto inferior esquerdo. A mensagem desaparecerá suavemente após 5 segundos.
@@ -4637,6 +4701,8 @@ Adicione o seguinte CSS para estilizar a mensagem. Você pode colocar isso no ar
 Este método é mais amigável do que o `alert` padrão e oferece uma experiência visual melhor para o usuário.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Exemplo de Reutilização de Notificações com Diferentes Tipos
 
@@ -4755,6 +4821,8 @@ Este exemplo genérico pode ser facilmente reutilizado em qualquer projeto. Voc�
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Usar as notificações com 'CSS Modules'
 
 Para usar "CSS Modules" no trecho que contém a notificação, você precisa importar o módulo CSS no componente e substituir as classes CSS padrão pelas propriedades do objeto `styles` fornecido pelo "CSS Module". Aqui está como fazer:
@@ -4851,6 +4919,8 @@ Com isso, o "CSS Module" será aplicado corretamente para cada tipo de notifica�
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Adicionando Classe na Div Mãe
 
 Aqui está um passo a passo para implementar a funcionalidade de adicionar e remover classes em uma `div` mãe e manipular diretamente o DOM em um componente React:
@@ -4913,6 +4983,8 @@ Esses passos garantem uma manipulação de classe consistente em modais ou janel
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Renderização Condicional de Elementos com Base na Largura da Tela em React.js
 
 Você pode usar o hook `useState` e o evento `resize` para criar essa funcionalidade. O exemplo abaixo mostra como você pode implementar isso:
@@ -4967,6 +5039,8 @@ export default ResponsiveDiv;
 Esse componente é funcional e reutilizável. É só importar e usar no seu projeto React. 😊
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Navegação Dinâmica com React Router: Redirecionando para Componentes em uma SPA
 
@@ -5045,6 +5119,8 @@ Agora, ao clicar no link "Inscrever-se", o usuário será redirecionado para o c
 Essa abordagem também mantém a navegação gerenciada pelo React Router, sem recarregar a página.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Usando Imagens PNG como Ícones em Componentes React
 
@@ -5210,6 +5286,8 @@ Com isso, você pode organizar melhor seus assets e garantir que o caminho da im
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Uso de URLs Externas para Imagens em Componentes React
 
 A importação direta de uma URL externa não funciona no JavaScript padrão ou no Webpack porque a importação espera arquivos locais que possam ser processados no build. No entanto, você pode usar imagens externas no React diretamente no atributo `src` do elemento `<img />`.
@@ -5274,6 +5352,8 @@ const ExternalIcon = ({ src, alt, size = 48 }) => (
 Com essa abordagem, você pode reutilizar o componente `ExternalIcon` para carregar imagens externas em qualquer lugar do seu projeto.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Preencher diferentes tipos de campos usando o console do navegador
 
@@ -5360,11 +5440,17 @@ Caso tenha mais campos ou queira ajustes, é só me avisar!
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🛡️ **Procedimentos para apontar domínio para AWS e ativar SSL na Cloudflare (modo Flexible)**
 
 ### ✅ **Resumo geral**
 
 Este procedimento orienta como configurar um domínio comprado (ex.: Registro.BR) para apontar para uma instância na AWS EC2, utilizando a **Cloudflare como gerenciadora de DNS** e habilitando **SSL Flexible** para acesso seguro sem necessidade de certificado no backend.
+
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🔢 **Passo a passo detalhado**
 
@@ -5432,12 +5518,18 @@ Este procedimento orienta como configurar um domínio comprado (ex.: Registro.BR
 
 - Confirme que aparece o cadeado de **Conexão segura**.
 
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 💡 **Notas finais**
 
 - O modo **Flexible** não criptografa tráfego entre Cloudflare e servidor; use **Full (Strict)** em produção com certificado válido instalado no backend.
 - Para máxima segurança, configure **Let’s Encrypt** ou **Cloudflare Origin Certificate** em seu servidor e altere o modo SSL na Cloudflare posteriormente.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🔀 Configuração para forçar redirecionamento automático de http para https
 
@@ -5475,6 +5567,8 @@ Garante que qualquer solicitação feita com `http://` seja automaticamente redi
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Uso de Variáveis de Ambiente com Arquivo .env no React
 
 O arquivo `.env` no React é usado para armazenar variáveis de ambiente, como chaves de API, URLs de backend e outras configurações sensíveis que você não quer hardcodar diretamente no código-fonte. Isso facilita o gerenciamento e aumenta a segurança, especialmente em ambientes de produção e desenvolvimento.
@@ -5504,6 +5598,9 @@ Isso tornará a variável `REACT_APP_API_URL` acessível no código React, e o v
 ### 3. Adicionando o Arquivo ao `.gitignore`
 O arquivo `.env` normalmente contém informações sensíveis e específicas do ambiente (como chaves e segredos). É uma boa prática adicioná-lo ao `.gitignore` para que ele não seja enviado ao repositório:
 ```
+
+---
+
 # Arquivo .gitignore
 .env
 ```
@@ -5672,6 +5769,8 @@ Essas dicas devem resolver problemas.
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Guia: Como Acessar Dados do `localStorage` para Requisições API em Componentes React
 
 Guia com instruções claras sobre como acessar dados do `localStorage` (como o `companyId`) e usá-los em requisições API dentro de um `useEffect`. Vou incluir também um exemplo genérico para facilitar a reutilização.
@@ -5757,6 +5856,8 @@ Seguindo essas instruções, você conseguirá acessar dados do `localStorage` e
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Obter dados de um Array com `map()`
 
 Crie um arquivo como por exemplo `data.js`:
@@ -5810,6 +5911,8 @@ return (
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Executar Array dentro do retorno de um componente
 
 Para mapear o array dentro do retorno de um componente em um select por exemplo, você pode fazer o seguinte:
@@ -5834,6 +5937,8 @@ function MeuComponente() {
 Nesse exemplo, criamos um array `dataTableRecords` com três objetos que representam as opções do select. Em seguida, utilizamos o método `map()` para criar um array de elementos `<option>` com base nos objetos do array `dataTableRecords`. Cada elemento `<option>` tem o atributo value com o valor do objeto e o texto da opção com o atributo label. Note que é importante incluir a propriedade `key` em cada elemento gerado pelo `map()` para ajudar o React a identificar qual item deve ser atualizado em caso de mudanças na lista. Por fim, o array de elementos `<option>` é renderizado dentro do elemento `<select>`.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Mapeamento direto no map()
 
@@ -5860,6 +5965,7 @@ function MeuComponente() {
 ---
 
 # Pequenos macetes de Array
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Filtrar itens mistos de um array
 
@@ -5877,6 +5983,8 @@ console.log(array.filter(Number.isInteger));
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Filtrar os números ímpares de um array
 
 Você tem um array contendo números e você precisa filtrar apenas os ímpares, veja abaixo:
@@ -5892,6 +6000,8 @@ console.log(array2.filter((number) => number % 2 !== 0));
 > O método `filter` retornou um novo array com os elementos que passaram no teste implantados na função fornecida.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Retornar o index da idade maior que 30 anos
 
@@ -5912,6 +6022,10 @@ ages.findIndex((n) => n > 30)
 # Array map(), filter() e reduce()
 
 Quem é que nunca precisou manipular arrays? Extrair somente os IDs de uma lista de produtos, ou obter dessa lista, somente os produtos de uma determinada categoria, ou então calcular o valor total dos produtos dessa lista. Nesse exemplo veremos três funções que resolvem esses problemas de forma simples.
+
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Array map()
 
@@ -5954,6 +6068,10 @@ console.log(duplicados); // Retornando [2, 4, 6, 8, 10].
 ```
 
 > Os valores do primeiro array foram transformados e seu resultado foi para um novo array criado pelo map(). Então, o callback que é passado para o map() recebe cada item e retorna o valor que você quer no array final.
+
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Array filter()
 
@@ -6012,6 +6130,10 @@ const alimentos = produtos
 
 > Isso é interessante, você pode combinar uma função com a outra e cada uma faz uma coisa específica. Os métodos podem ser colocados um abaixo do outro.
 
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Array Reduce
 
 Com o Reduce você pode gerar um único valor atravéz de uma coleção (uma lista, um array ...).
@@ -6053,6 +6175,8 @@ console.log(total); // Retornando "39.2".
 > Sempre a cada rodada que acontece do reduce, o valor que você está retornando vai se tornar o próximo acumulado e ele pega o próximo do array.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Geração Rápida de Elementos com `Array.from` para Testes em Frontend
 
@@ -6097,6 +6221,10 @@ export default ExampleComponent;
 
 Você pode substituir o número `4` pela quantidade desejada e alterar o conteúdo interno do `.map()` conforme o componente que estiver utilizando (`<Card />`, `<Col />`, `<ListItem />`, etc).
 
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Reinstalar Dependências para Resolver Problemas de Configuração ou Conflitos de CORS
 
 Quando o problema persiste e nenhuma das soluções comuns resolve, uma última alternativa é reinstalar as dependências do projeto. Esse processo remove possíveis conflitos, arquivos corrompidos ou versões inconsistentes.
@@ -6131,6 +6259,8 @@ Quando o problema persiste e nenhuma das soluções comuns resolve, uma última 
 Esse procedimento pode corrigir problemas de CORS e outros conflitos, eliminando bibliotecas duplicadas, versões incompatíveis ou arquivos temporários que o Node.js pode ter armazenado. É especialmente útil quando configurações e soluções prévias não surtiram efeito.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🚀 **Deploy Docker: Frontend com Nginx + Backend Node.js (AWS e servidores reais)**
 
@@ -6279,6 +6409,8 @@ docker-compose up -d
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🔀 **Configuração de Proxy Reverso Nginx + VITE_API_URL para Produção AWS**
 
 ### 🎯 **Objetivo**
@@ -6345,6 +6477,8 @@ Define que as requisições do frontend sejam relativas ao caminho `/api`, que s
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🔙 Clonar repositório em commit específico (rollback rápido com Git)
 
 Em alguns casos é necessário clonar um projeto do Git e voltar para um commit anterior que estava funcional.
@@ -6393,6 +6527,8 @@ git checkout 5140f8a9e86df725ad40fc556c6ad723b943bea1
 ```
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧭 Configuração de Identidade e Autenticação do Git
 
@@ -6473,6 +6609,8 @@ git config --list
 | Alterar URL para usar token | `git remote set-url origin https://<TOKEN>@github.com/user/repo.git` |
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧹 Script de Limpeza de Disco no Servidor Linux
 
@@ -6610,6 +6748,8 @@ echo -e "\n✅ Limpeza concluída."
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🧹 Script de Limpeza de Disco (Versão Leve)
 
 Este script faz apenas a limpeza básica de pacotes, logs, caches e diretórios temporários. É indicado para servidores simples ou instâncias pequenas na nuvem que não utilizam Docker ou Snap.
@@ -6702,6 +6842,8 @@ echo -e "\n✅ Limpeza concluída (versão leve)."
 * Faz apenas a limpeza segura e básica do sistema.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧹 Limpeza Manual de Disco no Linux (Comandos diretos)
 
@@ -6821,6 +6963,8 @@ df -h
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## ⚡ Limpeza Rápida de Disco no Linux
 
 ### 1) Limpar cache do APT e pacotes órfãos
@@ -6861,6 +7005,8 @@ df -h
 ```
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Como implementar Ícones Font-Awesome em componentes React
 
@@ -7057,6 +7203,8 @@ Para visualizar e escolher os ícones do **Font-Awesome**, você pode acessar o 
 Com essas informações, será fácil navegar pelo site e selecionar os ícones que você deseja utilizar no projeto! 🚀
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## ⚡ Guia Prático de Loading Overlay em React
 
@@ -7266,6 +7414,8 @@ Documentação oficial: [react-loading-indicators](https://react-loading-indicat
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Componente de Ping React com Histórico de Respostas
 
 Este componente em React realiza pings periódicos em um servidor ou URL especificado, exibindo os tempos de resposta no formato de um histórico limitado por uma quantidade configurável de linhas. Ideal para aplicações que precisam monitorar o tempo de resposta de serviços web.
@@ -7392,6 +7542,8 @@ Este componente é ideal para monitoramento básico. Para soluções mais avanç
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Implementação de Abas com Props para Componentes
 
 #### **Objetivo**
@@ -7465,6 +7617,8 @@ export function SystemSettings_BackgroundCategory({ number }) {
 - **Hooks**: `useEffect` pode ser usado para acionar efeitos colaterais com base no valor recebido.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Envio de Emails com Backend utilizando Nodemailer
 
@@ -7707,6 +7861,8 @@ export default App;
 - Certifique-se de que o backend esteja acessível ao frontend, configurando proxies ou utilizando um endereço de rede público.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Manipulação de Objetos no DOM com JavaScript
 
@@ -8112,8 +8268,7 @@ Se precisar de mais ajustes ou tiver dúvidas, é só perguntar! 😊
 ---
 
 Esses exemplos são altamente reutilizáveis e podem ser adaptados para diferentes cenários. Se precisar de mais adaptações ou esclarecimentos, é só pedir! 😊
-
----
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 📝 Manipulação Dinâmica do Título da Página com JavaScript
 
@@ -8166,6 +8321,8 @@ Essa é uma abordagem simples, mas poderosa, para dinamicamente alterar o títul
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Função simples
 
 Quando a função é acionada a partir de um click do usuário, é recomendável colocar o prefix `handle` e em seguida o nome de sua função em `CamelCase`, onde é uma denominação em inglês para a prática de escrever as palavras compostas ou frases, onde cada palavra é iniciada com maiúsculas e unidas sem espaços. Exemplo: `handleYourFunction() {...}`.
@@ -8191,6 +8348,8 @@ Sua função pode ser executada por exemplo, em um elemento HTML escrita da segu
 ```
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Preenchimento Automático de Formulários com React: Manipulação de Campos de Texto, Select, Radiobutton e Checkbox
 
@@ -8333,6 +8492,8 @@ export default FormularioAutoPreencher;
 Isso pode ser expandido para mais campos ou comportamentos adicionais conforme a necessidade!
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Modularização de Funções de Preenchimento Automático de Formulários em React com Importação Externa
 
@@ -8491,6 +8652,8 @@ export default FormularioAutoPreencher;
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🎭 Utilizando Máscaras Genéricas em Formulários
 
 O objetivo é ter um arquivo **único** (`/utils/masks.js`) para aplicação e remoção de máscaras, onde a regra é passada como parâmetro (ex.: `"000.000.000-00"` para CPF, `"(00)00000-0000"` para telefone, `"00.000-000"` para CEP).
@@ -8588,6 +8751,8 @@ cnpj: removeMask(cnpjForm),
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Exemplo de Adição de Evento de Clique em JavaScript
 
 O código abaixo seleciona um elemento com o id "myButton" e adiciona um ouvinte de evento para exibir um alerta quando o botão for clicado.
@@ -8614,6 +8779,8 @@ Em resumo, esse código seleciona um botão com o id "myButton" e adiciona um ou
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Passar uma propriedade de um elemento para uma arrow function
 
 Para executar uma arrow function que recebe a propriedade de um elemento quando um evento onClick é disparado, você pode definir a arrow function como uma função que recebe o evento e o elemento como seus parâmetros, e em seguida passá-la para a propriedade onClick do elemento.
@@ -8639,6 +8806,8 @@ return <button onClick={(event) => handleClick(event, "123")}>Clique aqui</butto
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## PopUp com uma determinada URL passada via parâmetro
 
 Para abrir uma popup com uma determinada URL em um projeto em ReactJS, você pode usar o seguinte código:
@@ -8656,6 +8825,8 @@ openPopup('https://www.google.com');
 Neste exemplo, a função `openPopup` recebe uma URL como parâmetro e utiliza o método `window.open` para abrir uma nova janela com a URL especificada. O segundo parâmetro da função `window.open` define o nome da janela (no caso, "popup"), e o terceiro parâmetro especifica as dimensões da janela. Você pode ajustar o tamanho de acordo com suas necessidades.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## PopUp passando além de uma URL, dimensões e centralizada
 
@@ -8683,6 +8854,8 @@ Este exemplo criará um botão que, quando clicado, abrirá uma janela popup com
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Contar número de caracteres de uma string
 
 Esta função recebe a o valor da string, conta os caracteres e retorna o valor referente à quantidade de caracteres.
@@ -8707,6 +8880,8 @@ console.log(numeroCaracteres); // 16
 Neste exemplo, a constante `numeroCaracteres` vai conter o número de caracteres do texto, que no caso é 16.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Capitalizar nomes (ótimo para cadastro de pessoas)
 
@@ -8779,6 +8954,8 @@ Isso irá renderizar o texto "Este é um Exemplo de Título Capitalizado" dentro
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Capitalizar a primeira palavra de um parágrafo com exceções em ReactJS
 
 É possível usar um array para facilitar a inclusão de palavras em exceções no texto capitalizado. Aqui está o código que utiliza um array de palavras excepcionais:
@@ -8831,6 +9008,8 @@ Esse código pode ser usado como referência para capitalizar a primeira palavra
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Transformando meses de 01 a 12 em Janeiro a Dezembro
 
 Você pode criar uma função que receba o número do mês como argumento e retorne o nome do mês correspondente. Veja um exemplo:
@@ -8851,7 +9030,11 @@ Nesse exemplo, a função `getMonthName` recebe um número de mês (de 1 a 12) c
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Como Rolar a Barra de Rotação para o Topo de uma Página ao Carregá-la com JavaScript
+
+---
 
 Sim, você pode usar JavaScript para rolar a barra de rolagem para o topo da página ao carregar a página. Você pode fazer isso adicionando um código simples ao seu componente da página "single". Aqui está um exemplo de como fazer isso:
 
@@ -8891,6 +9074,8 @@ Isso fará com que a página role para o topo sempre que a página "single" for 
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Removendo Tags HTML em ReactJS: Uma Abordagem Simples e Segura
 
 Sim, você pode usar uma expressão regular (regex) para remover todas as tags HTML de uma string em ReactJS. Você pode criar uma função utilitária para fazer isso. Aqui está um exemplo de como você pode fazer isso:
@@ -8927,6 +9112,8 @@ Por favor, note que ao usar `dangerouslySetInnerHTML`, você está inserindo HTM
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Removendo Tags HTML com ReactJS: Uma Abordagem Simples e Elegante
 
 Sim, você pode usar uma função em ReactJS para remover todas as tags HTML de um texto, deixando apenas o texto. Uma maneira de fazer isso é usando uma expressão regular (regex) para coincidir com todas as tags HTML e removê-las. Aqui está um exemplo de como você pode fazer isso:
@@ -8949,6 +9136,8 @@ A função `removeHtmlTags` recebe um texto que contém tags HTML e usa a expres
 Lembre-se de que essa abordagem remove todas as tags HTML, incluindo qualquer conteúdo que possa estar entre as tags. Certifique-se de que isso seja o que você deseja para o seu caso específico.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Função de Formatação de Data e Hora com Ajuste de Horas
 
@@ -9056,6 +9245,8 @@ Dessa forma, **`formatDate.js`** (e quaisquer outras funções auxiliares) ficar
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🌍 Guia de Inclusão de Mapas com Google Maps (iframe)
 
 Este guia descreve como incluir um **mapa interativo do Google Maps** em um componente React, utilizando `iframe` com estilos personalizados.
@@ -9130,8 +9321,7 @@ No arquivo de estilos (CSS ou módulo CSS), configure variáveis e classe para o
 ---
 
 ✅ **Dica:** Basta alterar os valores de `companyLatitude` e `companyLongitude` para reutilizar este padrão em outros componentes.
-
----
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Componentes Fixos e Posicionados no Layout com CSS
 
@@ -9222,6 +9412,8 @@ Pronto! 🚀 Este é um código simples e eficaz que cumpre com os requisitos de
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 📱 Diretivas de Media Queries para Responsividade (Desktop, Tablet e Smartphone)
 
 Esta instrução define as regras básicas para criar um layout responsivo utilizando `@media queries` no CSS, separando os estilos por tipo de dispositivo com base nas larguras da tela.
@@ -9259,6 +9451,8 @@ Garantir que a aplicação web se adapte corretamente a diferentes tamanhos de t
 * Combine com boas práticas de layout flexível (Flexbox, Grid) para uma responsividade mais eficiente.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🎨 Mudar o Tema CSS Dinamicamente em Projetos React + Vite
 
@@ -9332,6 +9526,8 @@ useEffect(() => {
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Organização de Terminais: Fluxo de Trabalho Produtivo
 
 Para manter a produtividade e organização no desenvolvimento do projeto, utilizo uma estrutura de **três terminais separados**, cada um com uma responsabilidade específica. Essa divisão facilita a execução de tarefas simultâneas e evita confusões ao rodar o sistema. A organização é a seguinte:
@@ -9381,14 +9577,17 @@ Para manter a produtividade e organização no desenvolvimento do projeto, utili
 ---
 
 Essa prática simples ajuda a manter o foco e organiza melhor as tarefas enquanto o projeto está em desenvolvimento. 🚀
-
----
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧭 **Template – Criação de Quadros no Trello para Novos Projetos**
 
 ### 📘 **Objetivo**
 
 Estabelecer um modelo padrão de configuração no **Trello** para gerenciar projetos de software, produtos SaaS ou iniciativas internas, utilizando a metodologia ágil **Scrum/Kanban**, com etapas bem definidas, etiquetas de prioridade e designação de responsáveis.
+
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🧩 **1. Criação do Quadro**
 
@@ -9524,6 +9723,8 @@ Durante a execução:
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Recebendo e Usando Propriedades (`props`) em Componentes React
 
 Este modelo explica como criar componentes React que recebem e utilizam propriedades (`props`), com exemplos em componentes funcionais, de classe e boas práticas para validação e tipagem.
@@ -9642,6 +9843,8 @@ Agora você pode usar este modelo genérico em seus futuros projetos. 🚀
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Uso de ENUMs no Prisma ORM
 
 Enums são úteis para definir um conjunto fixo de valores possíveis para um campo no banco de dados. No Prisma, os `enum` são definidos fora dos `model` e referenciados nos campos desejados.
@@ -9677,6 +9880,8 @@ model User {
 - Enums são especialmente úteis para campos como `status`, `tipo`, `categoria`, `sexo`, entre outros.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Integração de ENUM do Prisma com TypeScript
 
@@ -9732,6 +9937,8 @@ export type UserStatus = keyof typeof UserStatus
 Você pode criar um script para extrair os enums do Prisma e gerar arquivos para uso no frontend, garantindo consistência automática. (Se quiser esse script, posso gerar um exemplo.)
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Geração automática de enums Prisma para uso no frontend
 
@@ -9843,6 +10050,8 @@ Ou automatize após `prisma generate` com:
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Versão Avançada do Script de Geração de Enums
 
 Vamos ampliar o script para torná-lo **mais flexível**, incluindo:
@@ -9935,6 +10144,8 @@ npx ts-node scripts/generate-enums.ts --schema ./apps/api/prisma/schema.prisma
 ```
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Como consumir enums do Prisma no frontend
 
@@ -10071,6 +10282,8 @@ Essa é a estrutura básica para aplicação de CSS Modules em qualquer componen
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Modelo de Utilização de Variáveis CSS com `:root` e `var(--...)`
 
 ### 📌 Descrição
@@ -10135,6 +10348,8 @@ Conectar o VSCode via SFTP a servidores AWS EC2 ou outros, utilizando arquivo PE
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 📝 **1. Pré-requisitos**
 
 ✅ VSCode instalado
@@ -10142,6 +10357,8 @@ Conectar o VSCode via SFTP a servidores AWS EC2 ou outros, utilizando arquivo PE
 ✅ Servidor EC2 ou outro acessível na porta 22 (ou definida)
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🔧 **2. Instalando o VSCode (caso necessário)**
 
@@ -10157,6 +10374,8 @@ sudo apt install code
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 💻 **3. Instalando a extensão SFTP**
 
 1. Abra o VSCode.
@@ -10165,6 +10384,8 @@ sudo apt install code
 4. Clique em **Install**.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🔑 **4. Configurando o `sftp.json`**
 
@@ -10204,6 +10425,8 @@ sudo apt install code
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🔐 **5. Ajustando permissão do PEM**
 
 Para evitar erros de permissão SSH:
@@ -10214,6 +10437,8 @@ chmod 400 /home/marcos/Documentos/AWS/GTi\ SiS/gti-sis.pem
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🚀 **6. Utilizando**
 
 ✅ Abra o **SFTP Explorer** no VSCode (ícone no sidebar)
@@ -10222,6 +10447,8 @@ chmod 400 /home/marcos/Documentos/AWS/GTi\ SiS/gti-sis.pem
 ✅ Faça upload/download clicando com botão direito em cada arquivo ou pasta
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## 🛡️ **7. Notas de segurança corporativa**
 
@@ -10239,6 +10466,8 @@ chmod 400 /home/marcos/Documentos/AWS/GTi\ SiS/gti-sis.pem
 Essa configuração via **SFTP + PEM** integra de forma simples o VSCode a servidores AWS, mantendo **práticas seguras de chave privada** e garantindo agilidade em deploys manuais, manutenção ou acessos emergenciais.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## ⚡ Teste de Carga com `wrk`
 
@@ -10295,6 +10524,8 @@ Após rodar o comando, o `wrk` exibirá estatísticas como:
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 📦 `hey` — HTTP Load Generator
 
 📥 **Instalação**:
@@ -10320,6 +10551,8 @@ hey -n 1000 -c 50 https://seu.dominio.com.br/
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🛡️ `siege` — Stress Test & Regressão
 
 📥 **Instalação**:
@@ -10343,6 +10576,8 @@ siege -c50 -t30S https://seu.dominio.com.br/
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🧪 `ab` — ApacheBench
 
 📥 **Instalação** (vem no pacote `apache2-utils`):
@@ -10365,3 +10600,7 @@ ab -n 1000 -c 100 https://seu.dominio.com.br/
 
 ---
 
+
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**

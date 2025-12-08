@@ -4,7 +4,7 @@
 
 ---
 
-## Conteúdo
+## Conteúdo {#conteúdo}
 ## 🧠 1. **ORM Prisma**
    ### ⚙️ **Instalação e Configuração**
    - 🛠️ Configuração inicial do Prisma  
@@ -36,7 +36,6 @@
    ### 🔧 **Manutenção de Dependências**
    - 📦 [Atualizar Dependências do Prisma](#1-atualizar-depend%C3%AAncias-do-prisma "Comandos para Atualizar e Corrigir Dependências do Prisma")  
    - 🛡️ [Corrigir Vulnerabilidades de Segurança](#2-corrigir-vulnerabilidades-com-npm-audit-fix "Comandos para Atualizar e Corrigir Dependências do Prisma")
-
 ## 🗄️ 2. **Gerenciamento de Banco de Dados**
    ### 🧩 **Estrutura de Tabelas**
    - ➕ [Adicionar Colunas em Tabelas Existentes](#adicionar-uma-nova-coluna-como-chave-estrangeira "Adicionar Colunas em Tabelas Existentes")  
@@ -54,12 +53,10 @@
    - 🔍 [DQL (Data Query Language)](#3-dql-data-query-language---linguagem-de-consulta-de-dados "DQL (Data Query Language)")  
    - 🔐 [DCL (Data Control Language)](#4-dcl-data-control-language---linguagem-de-controle-de-dados "DCL (Data Control Language)")  
    - 💾 [DTL (Data Transaction Language)](#5-dtl-data-transaction-language---linguagem-de-transa%C3%A7%C3%A3o-de-dados "DTL (Data Transaction Language)")
-
 ## 🔬 3. **Testes e Depuração de APIs**
    ### 🧪 **Testando Endpoints com Insomnia**
    - 🔁 [Executando um CRUD no Insomnia](#como-executar-um-crud-no-insomnia "Executando um CRUD no Insomnia")  
    - ⚙️ [Configuração de Variáveis de Ambiente no Insomnia](#configura%C3%A7%C3%A3o-de-ambiente-no-insomnia "Configuração de Variáveis de Ambiente no Insomnia")
-
 ## 🐞 4. **Resolução de Erros Comuns no Desenvolvimento**
    - 🚫 [Erro: EADDRINUSE - Porta já está em uso no Linux (Debian)](#erro-eaddrinuse---porta-j%C3%A1-est%C3%A1-em-uso-no-linux-debian "Erro: EADDRINUSE - Porta já está em uso no Linux (Debian)")
      - 🧩 [Como identificar e encerrar processos do Node.js](#passo-a-passo-para-resolver "Como identificar e encerrar processos do Node.js")  
@@ -71,8 +68,6 @@
 ---
 
 Todos os tópicos relacionados a **Frontend** estão organizados dentro de **React.JS**, facilitando o acesso ao conteúdo específico de React.
-
----
 
 ## Comandos do Prisma para Sincronização e Geração de Tipos
 
@@ -95,6 +90,8 @@ npx prisma generate
 Esse comando cria automaticamente o cliente Prisma, facilitando o acesso aos modelos e consultas ao banco de dados dentro do seu código JavaScript ou TypeScript.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Comandos para Atualizar e Corrigir Dependências do Prisma
 
@@ -120,6 +117,8 @@ Sempre verifique o impacto de cada atualização no seu projeto, especialmente a
 Essas anotações podem ser úteis para manter as dependências de seus projetos em dia e mais seguras.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Gerenciando Chaves Estrangeiras no Banco de Dados
 
@@ -229,6 +228,8 @@ ADD CONSTRAINT fk_novo_cliente_id FOREIGN KEY (cliente_id) REFERENCES clientes(i
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🗄️ Boas Práticas de Relacionamentos (Beekeeper Studio / MySQL)
 
 ### Tabela Estados
@@ -299,6 +300,8 @@ A **SQL (Structured Query Language)** é uma linguagem padrão usada para gerenc
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## **1. DDL (Data Definition Language - Linguagem de Definição de Dados)**
 
 Os comandos DDL são usados para definir e modificar a estrutura de um banco de dados, como tabelas, índices e esquemas.  
@@ -311,6 +314,8 @@ Os comandos DDL são usados para definir e modificar a estrutura de um banco de 
   - Exemplo: `ALTER TABLE alunos ADD data_nascimento DATE;`
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## **2. DML (Data Manipulation Language - Linguagem de Manipulação de Dados)**
 
@@ -325,6 +330,8 @@ Os comandos DML são usados para manipular os dados dentro das tabelas.
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## **3. DQL (Data Query Language - Linguagem de Consulta de Dados)**
 
 DQL é responsável pelas consultas no banco de dados, ou seja, pela recuperação de dados.
@@ -338,6 +345,8 @@ DQL é responsável pelas consultas no banco de dados, ou seja, pela recuperaç�
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## **4. DCL (Data Control Language - Linguagem de Controle de Dados)**
 
 Os comandos DCL controlam o acesso e as permissões dentro do banco de dados.  
@@ -348,6 +357,8 @@ Os comandos DCL controlam o acesso e as permissões dentro do banco de dados.
   - Exemplo: `REVOKE SELECT ON alunos FROM usuario1;`
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## **5. DTL (Data Transaction Language - Linguagem de Transação de Dados)**
 
@@ -372,8 +383,7 @@ Os comandos DTL lidam com a gestão de transações no banco de dados, garantind
 ---
 
 Com essa organização, você pode consultar rapidamente os comandos SQL e entender em que contexto eles são usados no gerenciamento de bancos de dados.
-
----
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Como Executar um CRUD no Insomnia
 
@@ -605,6 +615,8 @@ freeport 3333
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 📦 Diferença entre `package.json` e `package-lock.json`
 
 ### 🧠 **Visão geral**
@@ -678,3 +690,5 @@ Ele registra **as versões exatas** dos pacotes instalados, garantindo que o pro
 | `npm ci`      | Produção ou CI/CD | Remove `node_modules/` e instala **exatamente** o que está no `package-lock.json`, garantindo consistência total. |
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**

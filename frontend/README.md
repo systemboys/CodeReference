@@ -4,7 +4,7 @@
 
 ---
 
-## Conteúdo
+## Conteúdo {#conteúdo}
 1. **⚛️ React.JS**
    - **📁 Estrutura Básica**
      - 🧱 Criação de componentes funcionais
@@ -54,9 +54,6 @@
 ---
 
 Nesta sessão há varios itens de conteúdos referentes à React.JS.
-
----
-
 ## Explicação detalhada sobre `useState` com exemplos práticos
 
 O `useState` é um dos hooks mais usados no React, utilizado para adicionar e gerenciar estados em componentes funcionais. Com ele, é possível definir valores dinâmicos que, ao serem alterados, causam uma re-renderização do componente para refletir as mudanças na interface do usuário.
@@ -233,6 +230,8 @@ O `useState` é a base para gerenciar estados em componentes funcionais e permit
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## Explicação detalhada sobre `useEffect` com exemplos práticos
 
 O `useEffect` é um dos hooks fundamentais no React. Ele permite que você realize efeitos colaterais em componentes funcionais, como executar código após a renderização, manipular o DOM, buscar dados de APIs, configurar um intervalo de tempo, e muito mais. Antes do `useEffect`, esses tipos de operações eram feitos dentro dos métodos de ciclo de vida em componentes de classe, como `componentDidMount`, `componentDidUpdate`, e `componentWillUnmount`.
@@ -377,6 +376,8 @@ Esse uso é raro e geralmente não é recomendado.
 O `useEffect` é um hook poderoso que permite realizar efeitos colaterais em componentes funcionais de maneira controlada e previsível. Dominar seu uso e entender a mecânica das dependências ajudará a construir componentes mais eficientes e sem bugs.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## O `useContext` para contexto global
 
@@ -570,6 +571,8 @@ export default AppContent;
 O `useContext` é uma ferramenta poderosa para gerenciamento de dados globais em uma aplicação React e, quando combinado com o `useState` ou `useReducer` no `Provider`, permite gerenciar estados complexos de forma eficiente.
 
 ---
+
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Flexbox CSS: Guia Completo, Elementos e Exemplos
 
@@ -860,8 +863,7 @@ Por favor veja a explicação da propriedade `align-items` para entender quais s
 | Perfil | Especialização |
 | ------------------------------------------------------- | :----------------------------------------------------------- |
 | ![Juliana Amoasei](./images/css_flex_box/32266030.jpeg) | ***Juliana Amoasei***<br />Desenvolvedora JavaScript com background multidisciplinar, sempre aprendendo para ensinar e vice-versa. Acredito no potencial do conhecimento como agente de mudança pessoal e social. Atuo como instrutora na Escola de Programação da Alura e, fora da tela preta, me dedico ao Kung Fu e a nerdices em geral. |
-
----
+**📑 [Voltar ao Índice](#conteúdo)**
 
 ## Modelo de CSS Responsivo com Media Queries
 
@@ -932,6 +934,8 @@ Agora você pode usar este modelo para tornar suas aplicações responsivas de f
 
 ---
 
+**📑 [Voltar ao Índice](#conteúdo)**
+
 ## 🔍 Verificando a versão do React e React-DOM em projetos com frontend isolado
 
 Em projetos estruturados com um diretório separado para o frontend (como `/frontend` dentro do projeto principal), você pode verificar a versão instalada do `react` e `react-dom` com os comandos abaixo.
@@ -980,3 +984,8 @@ Em projetos estruturados com um diretório separado para o frontend (como `/fron
 > 💡 Dica: Se o comando retornar `(empty)` ou erro de dependência, certifique-se de estar na pasta correta onde o `package.json` do frontend está localizado.
 
 ---
+
+
+---
+
+**📑 [Voltar ao Índice](#conteúdo)**
