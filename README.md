@@ -57,7 +57,7 @@ CodeReference/
 
 ### Deploy e Hospedagem
 - [Deploy e Hospedagem](./deploy/README.md)
-- [Expondo Aplicações Locais com ngrok](./deploy/README.md#expondo-aplicações-locais-na-web-com-ngrok)
+- [Expondo Aplicações Locais com ngrok](./deploy/README.md#-expondo-aplicações-locais-na-web-com-ngrok)
 
 ---
 
