@@ -1,4 +1,4 @@
-# Deploy e Hospedagem {#topo}
+# Deploy e Hospedagem
 
 **Navegação:** [🏠 Início](../README.md) | [⬅️ Voltar](../README.md) | [⬆️ Topo](#topo)
 
