@@ -26,7 +26,7 @@ Este projeto reúne exemplos práticos, padrões de código, configurações e s
 ## 📖 Estrutura do Projeto
 
 ```
-📂CodeReference/
+📂 CodeReference/
 ├──📁 frontend/          # Guias e exemplos de React.js
 ├──📁 backend/           # Guias e exemplos de Node.js + Prisma
 ├──📁 scripts/           # Scripts prontos e utilitários
