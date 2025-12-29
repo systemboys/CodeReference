@@ -10,7 +10,7 @@
 - [Introdução ao Docker](#-introdu%C3%A7%C3%A3o-ao-docker "Introdução ao Docker")
 - [💡 Casos de Uso](#-casos-de-uso "Casos de Uso")
 - [📦 Instalação do Docker no Linux (Debian)](#-instala%C3%A7%C3%A3o-do-docker-no-linux-debian "Instalação do Docker no Linux (Debian)")
-- [🏗️ Conceitos Fundamentais](#-conceitos-fundamentais "Conceitos Fundamentais")
+- [🏗️ Conceitos Fundamentais](#%EF%B8%8F-conceitos-fundamentais "Conceitos Fundamentais")
 - [🚀 Criando e Gerenciando Containers](#-criando-e-gerenciando-containers "Criando e Gerenciando Containers")
 - [📝 Dockerfile: Criando Imagens Personalizadas](#-dockerfile-criando-imagens-personalizadas "Dockerfile: Criando Imagens Personalizadas")
 - [🔧 Comandos Essenciais do Docker](#-comandos-essenciais-do-docker "Comandos Essenciais do Docker")
