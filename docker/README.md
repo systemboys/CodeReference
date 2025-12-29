@@ -15,7 +15,7 @@
 - [📝 Dockerfile: Criando Imagens Personalizadas](#-dockerfile-criando-imagens-personalizadas "Dockerfile: Criando Imagens Personalizadas")
 - [🔧 Comandos Essenciais do Docker](#-comandos-essenciais-do-docker "Comandos Essenciais do Docker")
 - [🌐 Docker Compose: Orquestração de Múltiplos Containers](#-docker-compose-orquestra%C3%A7%C3%A3o-de-m%C3%BAltiplos-containers "Docker Compose: Orquestração de Múltiplos Containers")
-- [🗄️ Gerenciamento de Volumes e Dados](#-gerenciamento-de-volumes-e-dados "Gerenciamento de Volumes e Dados")
+- [🗄️ Gerenciamento de Volumes e Dados](#%EF%B8%8F-gerenciamento-de-volumes-e-dados "Gerenciamento de Volumes e Dados")
 - [🌐 Networking no Docker](#-networking-no-docker "Networking no Docker")
 - [🔍 Debugging e Troubleshooting](#-debugging-e-troubleshooting "Debugging e Troubleshooting")
 - [⚡ Comandos Avançados para Programadores Experientes](#-comandos-avan%C3%A7ados-para-programadores-experientes "Comandos Avançados para Programadores Experientes")
